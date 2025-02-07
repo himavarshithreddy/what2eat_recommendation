@@ -1,0 +1,3332 @@
+[
+  {
+    "id": "01yuJuz31UCp6gkMVnJC",
+    "calculationDetails": {
+      "fsaScore": 18,
+      "negativePoints": 18,
+      "positivePoints": 0
+    },
+    "lastCalculated": {
+      "seconds": 1738874292,
+      "nanoseconds": 843000000
+    },
+    "healthScore": 40,
+    "barcodes": [
+      "8901262010016"
+    ],
+    "cons": [
+      "High in total fat",
+      "High in sodium"
+    ],
+    "updatedAt": {
+      "seconds": 1738875866,
+      "nanoseconds": 336000000
+    },
+    "categoryId": "6",
+    "pros": [
+      "No added sugar",
+      "Contains Vitamin A"
+    ],
+    "nutritionInfo": {
+      "fruitsVegetablesNuts": "0",
+      "fiber": "0",
+      "fats": "80 g",
+      "sodium": "836 mg",
+      "energy": "722 kcal",
+      "protein": "0.5 g",
+      "iron": "0",
+      "carbohydrates": "0 g",
+      "Vitamin A": "650 mcg",
+      "sugars": "0 g",
+      "vitaminB": "0"
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2Fshopping-removebg-preview.png?alt=media&token=7c55d973-722b-4fad-a706-f523ca3e5cdd",
+    "userRating": 0,
+    "ingredients": [
+      "Butter",
+      "Common salt",
+      "Natural Colour(Annatto)"
+    ],
+    "artificialIngredients": [
+      ""
+    ],
+    "numberOfRatings": 0,
+    "name": "Amul Pasteurised Butter"
+  },
+  {
+    "id": "0AxLgNCEgSR5Qx9EaWAP",
+    "barcodes": [
+      "8901063139190"
+    ],
+    "name": "Britannia Bourbon",
+    "calculationDetails": {
+      "negativePoints": 12,
+      "positivePoints": 3,
+      "fsaScore": 12
+    },
+    "updatedAt": {
+      "seconds": 1738875871,
+      "nanoseconds": 925000000
+    },
+    "artificialIngredients": [
+      "Food colours (150d)",
+      "Food colours(102)",
+      "Food colours (110)",
+      "Food colours(122)",
+      "Food colours (133)",
+      "Flavours (Vanilla & Chocolate).",
+      "Food colours (150a)"
+    ],
+    "nutritionInfo": {
+      "Trans fatty acids": "0 g",
+      "Mono unsaturated fatty acids": "7.7 g",
+      "fats": "20 g",
+      "sodium": "119 mg",
+      "iron": "0",
+      "protein": "5 g",
+      "fruitsVegetablesNuts": "0",
+      "Cholesterol": "0 mg",
+      "energy": "488 kcal",
+      "vitaminB": "0",
+      "sugars": "37.5 g",
+      "Added Sugars": "35.3",
+      "Saturated fatty acids": "10 g",
+      "Poly unsaturated fatty acids": "2.2g",
+      "carbohydrates": "72 g",
+      "fiber": "0"
+    },
+    "pros": [
+      ""
+    ],
+    "cons": [
+      "High in sugar",
+      "High in saturated fat",
+      "Contains artificial colors",
+      "Contains artificial flavouring"
+    ],
+    "numberOfRatings": 0,
+    "userRating": 0,
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F41T3gbYHXkL%20Background%20Removed.png?alt=media&token=a5e178b0-d52f-40d9-8280-e4ae2d58628d",
+    "ingredients": [
+      "Refined wheat flour",
+      "Sugar",
+      "Palm oil",
+      "Edible starch",
+      "Cocoa solids",
+      "Milk solids",
+      "Raising agents 1500(1)",
+      "Raising agents 503(1)",
+      "Emulsifiers (471)",
+      "Emulsifiers (322)",
+      "Iodised salt",
+      "Food colours (150a)",
+      "Food colours(102)",
+      "Food colours (110)",
+      "Food colours(122)",
+      "Food colours (133)",
+      "Flavours (Vanilla & Chocolate)",
+      "Food colours (150d)"
+    ],
+    "categoryId": "2",
+    "healthScore": 51
+  },
+  {
+    "id": "0Pr0Yi2SnyHIU0X8trhA",
+    "artificialIngredients": [
+      "Colour (INS 150d)",
+      "Antioxidant (INS 320)",
+      "Nature Identical Flavours",
+      "Artificial Cream Flavours"
+    ],
+    "categoryId": "3",
+    "name": "Kellogg's Chocos - Moons & Stars",
+    "pros": [
+      "High in protein",
+      "Contains vitamins and minerals",
+      "Contains dietary fiber"
+    ],
+    "ingredients": [
+      "Wheat Solids",
+      "Wheat Flour",
+      "Ragi Flour",
+      "Sorghum Flour",
+      "Refined Wheat Flour",
+      "Sugar",
+      "Corn Flour",
+      "Cocoa Solids",
+      "Minerals",
+      "Cereal Extract",
+      "Edible Vegetable Oil (Palmolein)",
+      "Iodized Salt",
+      "Colour (INS 150d)",
+      "Vitamins",
+      "Antioxidant (INS 320)",
+      "Permitted Natural Colour",
+      "Nature Identical Flavours",
+      "Artificial Cream Flavours"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2Fmoon-removebg-preview.png?alt=media&token=92b86061-f904-42c4-ba6a-c6ec9dbebf3c",
+    "updatedAt": {
+      "seconds": 1738875876,
+      "nanoseconds": 285000000
+    },
+    "barcodes": [
+      "8901499009883"
+    ],
+    "userRating": 0,
+    "cons": [
+      "High in sugar",
+      "Contains artificial flavors"
+    ],
+    "Allergens": [
+      "Gluten",
+      "Wheat",
+      "Milk",
+      "Soy",
+      "Barley",
+      "Nuts",
+      "Oats"
+    ],
+    "numberOfRatings": 0,
+    "nutritionInfo": {
+      "Saturated Fatty Acids": "1.3 g",
+      "energy": "379 kcal",
+      "Folate": "40 µg",
+      "sodium": "330 mg",
+      "dietaryfiber": "5.5 g",
+      "fats": "3 g",
+      "iron": "5 mg",
+      "vitaminB1": "0.67 mg",
+      "Vitamin B12\t": "0.33 µg\t",
+      "Vitamin B6\t": "1.3 mg\t",
+      "Energy from Fat": "27 kcal",
+      "Vitamin B3": "5 mg\t",
+      "fruitsVegetablesNuts": "0",
+      "PUFA": "0.7 g",
+      "Zinc": "2 mg\t",
+      "TotalSugars": "24 g",
+      "Added Sugars": "23.5 g",
+      "protein": "8.6 g",
+      "Vitamin C": "10 mg",
+      "Vitamin B2": "0.55 mg",
+      "carbohydrates": "82.1 g",
+      "Calcium ": "600 mg",
+      "MUFA": "1 g\t"
+    },
+    "calculationDetails": {
+      "negativePoints": 10,
+      "positivePoints": 10,
+      "fsaScore": 0
+    },
+    "healthScore": 73
+  },
+  {
+    "id": "13qexaRplskDe6oabi29",
+    "ingredients": [
+      "Sugar",
+      "Interesterified Vegetable Fat",
+      "Refined Wheat Flour",
+      "Milk Solids",
+      "Starch",
+      "Cocoa Solids",
+      "Palmolein",
+      "Emulsifiers (442)",
+      "Emulsifiers (322)",
+      "Emulsifiers (476)",
+      "Iodised Salt",
+      "Yeast",
+      "Natural Flavours",
+      "Artificial Flavours(Caramel and Vanilla)",
+      "Raising Agent (500(i))",
+      "Improver (1101(i))"
+    ],
+    "userRating": 0,
+    "numberOfRatings": 0,
+    "barcodes": [
+      "7622202265525"
+    ],
+    "healthScore": 51,
+    "categoryId": "4",
+    "calculationDetails": {
+      "positivePoints": 2,
+      "fsaScore": 12,
+      "negativePoints": 12
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2FCadbury-Perk-Chocolate-Coated-Wafer-Bar-11-g-3%20Background%20Removed.png?alt=media&token=30ea22f4-626a-46b6-b6b1-41b58f899878",
+    "Allergens": [
+      "Milk",
+      "Wheat",
+      "Soy",
+      "Sulphites",
+      "Barley"
+    ],
+    "updatedAt": {
+      "seconds": 1738875882,
+      "nanoseconds": 320000000
+    },
+    "cons": [
+      "Extremely high in added sugar",
+      "High in saturated fat",
+      "Contains Artificial Flavors and Emulsifiers"
+    ],
+    "artificialIngredients": [
+      "Interesterified Vegetable Fat",
+      "Emulsifiers (442)",
+      "Emulsifiers (322)",
+      "Emulsifiers (476)",
+      "Artificial Flavours (Caramel and Vanilla)",
+      "Raising Agent (500(i))",
+      "Improver (1101(i))"
+    ],
+    "nutritionInfo": {
+      "fruitsVegetablesNuts": "0",
+      "fats": "25.3 g",
+      "Added Sugars": "46 g",
+      "Trans Fat": "0.2 g",
+      "iron": "0",
+      "protein": "3.4 g",
+      "dietaryfiber": "0",
+      "TotalSugars": "46.1 g",
+      "Cholesterol ": "2.7 mg",
+      "vitaminB1": "0",
+      "energy": "514 kcal",
+      "sodium": "62 mg",
+      "carbohydrates": "69.1 g",
+      "Saturated Fat": "20 g"
+    },
+    "pros": [
+      ""
+    ],
+    "name": "Cadbury Perk"
+  },
+  {
+    "id": "15F7wkqjXhls0B6pMhcE",
+    "updatedAt": {
+      "seconds": 1738875888,
+      "nanoseconds": 567000000
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2Fquak%20Background%20Removed.png?alt=media&token=1f310555-b182-4c0d-8951-ebcddeaf19a6",
+    "ingredients": [
+      "Rolled Oats Flakes"
+    ],
+    "numberOfRatings": 0,
+    "calculationDetails": {
+      "negativePoints": 5,
+      "positivePoints": 10,
+      "fsaScore": -5
+    },
+    "userRating": 0,
+    "name": "Quaker Oats",
+    "nutritionInfo": {
+      "TotalSugars": "1.8 g",
+      "PUFA": "4 g",
+      "vitaminB1": "0",
+      "sodium": "9.5 mg",
+      "Magnesium ": "106 mg",
+      "MUFA": "3.6 g",
+      "energy": "407 kcal",
+      "Insoluble fibre": "6.2 g",
+      "Saturated fat": "1.9 g",
+      "Cholesterol ": "0 mg",
+      "Zinc": "2 mg",
+      "protein": "11.8 g",
+      "fruitsVegetablesNuts": "0",
+      "Soluble fibre ": "3.8 g",
+      "carbohydrates": "68.5 g",
+      "iron": "2.9 mg",
+      "fats": "9.5 g",
+      "dietaryfiber": "10 g"
+    },
+    "pros": [
+      "High in dietary fibre",
+      "Good source of protein"
+    ],
+    "healthScore": 82,
+    "cons": [
+      ""
+    ],
+    "barcodes": [
+      "8901491103800"
+    ],
+    "artificialIngredients": [
+      ""
+    ],
+    "categoryId": "3",
+    "Allergens": [
+      "Wheat",
+      "Barley"
+    ]
+  },
+  {
+    "id": "2FRIFBvlj31qf9e1uLK9",
+    "userRating": 0,
+    "categoryId": "8",
+    "pros": [
+      "Low in sugar"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F816eWxyDWeL%20Background%20Removed._SL1500_.png?alt=media&token=9487234c-2f1f-4157-9f9a-9a4fca060622",
+    "nutritionInfo": {
+      "fats": "6.5 g",
+      "dietaryfiber": "0",
+      "energy": "164.5 kcal",
+      "sodium": "0",
+      "vitaminB1": "0",
+      "TotalSugars": "<0.5 g",
+      "Saturated Fat": "3.1 g",
+      "fruitsVegetablesNuts": "0",
+      "Trans Fat": "<0.1 g",
+      "protein": "2.7 g",
+      "iron": "0",
+      "carbohydrates": "23.8 g"
+    },
+    "updatedAt": {
+      "seconds": 1738875892,
+      "nanoseconds": 332000000
+    },
+    "calculationDetails": {
+      "fsaScore": 1,
+      "positivePoints": 1,
+      "negativePoints": 2
+    },
+    "cons": [
+      "High in saturated fat"
+    ],
+    "ingredients": [
+      "Potato",
+      "Palmolein Oil",
+      "Maize Starch",
+      "Rice Flakes",
+      "Green Chilli",
+      "Water",
+      "Starch",
+      "Iodized Salt",
+      "Acidity Regulator [INS 260])",
+      "Acidity Regulato [INS 330])",
+      "Ginger"
+    ],
+    "Allergens": [
+      "Wheat",
+      "Milk",
+      "Soy"
+    ],
+    "numberOfRatings": 0,
+    "healthScore": 71,
+    "name": "Mccain Aloo Tikki",
+    "artificialIngredients": [
+      "Acidity Regulator [INS 260])",
+      "Acidity Regulato [INS 330])",
+      "Starch"
+    ],
+    "barcodes": [
+      "8906000610336"
+    ]
+  },
+  {
+    "id": "4aUJ3NdCDLjUH8ezkmNK",
+    "pros": [
+      "No trans fat",
+      "Fortified with vitamins & minerals"
+    ],
+    "healthScore": 67,
+    "updatedAt": {
+      "seconds": 1738875910,
+      "nanoseconds": 588000000
+    },
+    "barcodes": [
+      "8901063162136"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F71oNn1KQMbL%20Background%20Removed._SL1400_.png?alt=media&token=9d7d4c54-2056-4166-af5f-4f9a1e79020c",
+    "ingredients": [
+      "Refined wheat flour (maida) (73%)",
+      "Sugar",
+      "Refined palm oil",
+      "Invert sugar syrup",
+      "Milk solids",
+      "Raising agents 503(ii)",
+      "Raising agents 500(ii)",
+      "Iodized salt",
+      "Emulsifier (472e)",
+      "Calcium salt",
+      "Dough conditioner (223)",
+      "Vitamins",
+      "Ferrous salt",
+      "Potassium iodate",
+      "Natural color (150d)",
+      "Flavours (milk & vanilla)"
+    ],
+    "numberOfRatings": 0,
+    "categoryId": "2",
+    "name": "Britannia Marie Gold",
+    "nutritionInfo": {
+      "fiber": "0",
+      "Cholesterol": "0 mg",
+      "Vitamin B3": "1.6 mg",
+      "carbohydrates": "78.9",
+      "Poly unsaturated fat": "1.2 g",
+      "Pantothenate": "1.1 mg",
+      "Iodine": "15 mcg",
+      "protein": "8.4 g",
+      "Vitamin B12": "0.1 mcg",
+      "Vitamin B2": "0.14 mg",
+      "Vitamin B6 ": "0.2 mg",
+      "sodium": "0",
+      "iron": "3 mg",
+      "sugars": "21.9 g",
+      "vitaminB": "0",
+      "fruitsVegetablesNuts": "0",
+      "Saturated fatty acids": "5.2 g",
+      "Vitamin B1": "0.12 mg",
+      "Folic acid": "10 mcg",
+      "Mono unsaturated fat": "4.1 g",
+      "Calcium": "60 mg",
+      "fats": "10.7 g",
+      "energy": "445 kcal"
+    },
+    "calculationDetails": {
+      "positivePoints": 5,
+      "negativePoints": 8,
+      "fsaScore": 3
+    },
+    "cons": [
+      "High in added sugars",
+      "Contains refined wheat flour",
+      "Includes artificial flavoring"
+    ],
+    "artificialIngredients": [
+      "Raising agents 503(ii)",
+      "Raising agents 500(ii)",
+      "Emulsifier (472e)",
+      "Artificial vanilla flavouring"
+    ],
+    "userRating": 0
+  },
+  {
+    "id": "5HQoUewmTX2ufLbMboHX",
+    "pros": [
+      "Contains fruit products",
+      "No trans fats",
+      "No cholesterol"
+    ],
+    "updatedAt": {
+      "seconds": 1738875914,
+      "nanoseconds": 313000000
+    },
+    "barcodes": [
+      "8901063029279"
+    ],
+    "calculationDetails": {
+      "negativePoints": 12,
+      "fsaScore": 12,
+      "positivePoints": 3
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F61m7bY5QG6L%20Background%20Removed._SL1500_.png?alt=media&token=7fb9cae1-4e40-414a-8b57-3a4c6af927f7",
+    "categoryId": "2",
+    "ingredients": [
+      "Refined wheat flour",
+      "Sugar",
+      "Refined palm oil",
+      "Vegetable oil",
+      "Invert sugar syrup",
+      "Dextrose",
+      "Milk solids",
+      "Condensed milk",
+      "Edible maize starch",
+      "Maltodextrin",
+      "Fruit products(apple, banana, plum)",
+      "Iodized salt",
+      "Raising agents (503(ii))",
+      "Raising agents (500(ii))",
+      "Emulsifiers (322(i) & 471)",
+      "Acidity regulators (330 & 331)",
+      "Gelling agent (440)",
+      "Colour (122)"
+    ],
+    "nutritionInfo": {
+      "protein": "5 g",
+      "sodium": "214 mg",
+      "Added Sugars": "31.8 g",
+      "iron": "0",
+      "Polyunsaturated": "2.2 g",
+      "Mono unsaturated": "7.2 g",
+      "sugars": "33.5 g",
+      "Cholesterol": "0 mg",
+      "Trans Fat": "0 g",
+      "fats": "19 g ",
+      "vitaminB": "0",
+      "fiber": "0",
+      "fruitsVegetablesNuts": "0.7%",
+      "carbohydrates": "73 g",
+      "energy": "483 kcal ",
+      "Saturated Fat": "9.5 g"
+    },
+    "name": "Britannia Jim Jam",
+    "userRating": 0,
+    "cons": [
+      "High in added sugars",
+      "High in saturated fat",
+      "Contains artificial color (122)"
+    ],
+    "artificialIngredients": [
+      "Emulsifiers (322(i))",
+      "Emulsifiers (471)",
+      "Acidity regulators (330)",
+      "Acidity regulators (331)",
+      "Colour (122)"
+    ],
+    "numberOfRatings": 0,
+    "healthScore": 51
+  },
+  {
+    "id": "6wEXV6HL3Qmm9fBwhhEi",
+    "barcodes": [
+      "8901030672927"
+    ],
+    "name": "Kwality Walls Vanilla Tub",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F51ktZrtGoXL%20Background%20Removed._SL1000_.png?alt=media&token=b6e0e588-5863-4f1f-94d2-0c76f3d454b2",
+    "userRating": 0,
+    "ingredients": [
+      "Water",
+      "Sugar",
+      "Palm Oil",
+      "Milk Solids",
+      "Liquid Glucose",
+      "Vegetable Oil",
+      "Food Colour (E102)",
+      "Artificial Vanilla flavour",
+      "Edible Vegetable Oil"
+    ],
+    "healthScore": 73,
+    "numberOfRatings": 0,
+    "calculationDetails": {
+      "negativePoints": 2,
+      "positivePoints": 2,
+      "fsaScore": 0
+    },
+    "nutritionInfo": {
+      "Trans Fat": "0.0 g",
+      "TotalSugars": "8.9 g",
+      "fats": "5.7 g",
+      "carbohydrates": "12.2 g",
+      "Saturated Fat": "3.1 g",
+      "vitaminB1": "0",
+      "protein": "2.1 g",
+      "iron": "0",
+      "fruitsVegetablesNuts": "0",
+      "energy": "109 kcal",
+      "dietaryfiber": "1.0 g",
+      "sodium": "35 mg"
+    },
+    "updatedAt": {
+      "seconds": 1738875919,
+      "nanoseconds": 749000000
+    },
+    "pros": [
+      "Contains dietary fiber",
+      "Low sodium"
+    ],
+    "cons": [
+      "High in saturated fat",
+      "Contains vanilla flavour"
+    ],
+    "categoryId": "4",
+    "artificialIngredients": [
+      "Artificial Vanilla flavour",
+      "Food Colour (E102)"
+    ]
+  },
+  {
+    "id": "DtEnouCf5anCQfFOy8BD",
+    "name": "Kurkure Masala Munch",
+    "categoryId": "9",
+    "numberOfRatings": 0,
+    "barcodes": [
+      "8901491100519"
+    ],
+    "healthScore": 45,
+    "artificialIngredients": [
+      "Flavouring substances"
+    ],
+    "updatedAt": {
+      "seconds": 1738875926,
+      "nanoseconds": 583000000
+    },
+    "nutritionInfo": {
+      "sodium": "892 mg",
+      "sugars": "1.0 g",
+      "fiber": "0",
+      "Trans Fat": "0.1 mg",
+      "fats": "34.6 g",
+      "carbohydrates": "55.2 g",
+      "Saturated Fat": "16.0 g",
+      "protein": "6.4 g",
+      "vitaminB": "0",
+      "energy": "558 kcal",
+      "iron": "0",
+      "fruitsVegetablesNuts": "0"
+    },
+    "calculationDetails": {
+      "positivePoints": 3,
+      "negativePoints": 15,
+      "fsaScore": 15
+    },
+    "cons": [
+      "High in sodium",
+      "High in saturated fat",
+      ""
+    ],
+    "userRating": 0,
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F67372a%20Background%20Removed.png?alt=media&token=73ed14b7-1f1c-4036-8e90-6a04612dcc65",
+    "pros": [
+      "Contains natural spices",
+      "Low in sugar"
+    ],
+    "ingredients": [
+      "Rice meal",
+      "Palmolein oil",
+      "Corn meal",
+      "Onion powder",
+      "Red chilli powder",
+      "Amchur powder",
+      "Coriander powder",
+      "Garlic flakes",
+      "Garlic powder",
+      "Ginger powder",
+      "Black pepper",
+      "Turmeric powder",
+      "Spice extract",
+      "Fenugreek",
+      "Gram meal",
+      "Salt",
+      "Sugar",
+      "Tomato powder",
+      "Citric acid",
+      "Dextrose",
+      "Milk solids",
+      "Edible starch",
+      "Flavouring substance"
+    ]
+  },
+  {
+    "id": "FxbzzO9ZSwCpkwCsSqal",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F61J8QE-HrSL%20Background%20Removed._SL1000_-2.png?alt=media&token=f21515b1-3b2f-4cd1-9752-49944ebeb59e",
+    "numberOfRatings": 0,
+    "pros": [
+      "Contains fiber",
+      "No added sugar"
+    ],
+    "cons": [
+      "High in saturated fat",
+      "High in sodium"
+    ],
+    "calculationDetails": {
+      "negativePoints": 11,
+      "positivePoints": 8,
+      "fsaScore": 8
+    },
+    "categoryId": "8",
+    "Allergens": [
+      "Gluten",
+      "Nuts",
+      "Milk product"
+    ],
+    "updatedAt": {
+      "seconds": 1738875930,
+      "nanoseconds": 336000000
+    },
+    "ingredients": [
+      "Refined Wheat Flour",
+      "Milk Solids",
+      "Palmolein Oil",
+      "Palm Kernel Oil",
+      "Leavening Agent (INS 500 ii)",
+      "Acidity Regulator(INS 296)"
+    ],
+    "artificialIngredients": [
+      "Edible Fat",
+      "Leavening Agent",
+      "Acidity Regulator",
+      ""
+    ],
+    "healthScore": 58,
+    "nutritionInfo": {
+      "MUFA": "4 g",
+      "fats": "10.4 g",
+      "PUFA": "0.4 g",
+      "TotalSugars": "0",
+      "Transfat": "0 g",
+      "vitaminB1": "0",
+      "fruitsVegetablesNuts": "0",
+      "protein": "14 g",
+      "iron": "0",
+      "sodium": "710 mg",
+      "dietaryfiber": "2.73 g",
+      "Saturated Fat": "6 g",
+      "carbohydrates": "60 g",
+      "energy": "390 kcal"
+    },
+    "name": "MTR Gulab Jamun",
+    "barcodes": [
+      "8901042969725"
+    ],
+    "userRating": 0
+  },
+  {
+    "id": "I9xrl2kB0Zpx0sLtID2S",
+    "ingredients": [
+      "Corn Grits",
+      "Sugar",
+      "Cereal Extract",
+      "Iodized Salt",
+      "Vitamins",
+      "Minerals",
+      "Antioxidant (INS 307b)"
+    ],
+    "barcodes": [
+      "8901499010216"
+    ],
+    "pros": [
+      "High in iron",
+      "Contains beneficial vitamins"
+    ],
+    "calculationDetails": {
+      "fsaScore": 3,
+      "negativePoints": 10,
+      "positivePoints": 7
+    },
+    "nutritionInfo": {
+      "MUFA": "0.1 g",
+      "iron": "9 mg",
+      "dietaryfiber": "2.5 g",
+      "energy": "378 kcal",
+      "Saturated Fatty Acids": "0.6 g",
+      "carbohydrates": "86.9 g",
+      "Vitamin B6": "1.7 mg",
+      "vitaminB1": "1 mg",
+      "Folate": "84 μg",
+      "Calcium": "~ 780 mg",
+      "Added Sugars": "8 g",
+      "Vitamin B3": "13.4 mg",
+      "fruitsVegetablesNuts": "0",
+      "Vitamin C": "33 mg",
+      "Cholesterol ": "0 mg",
+      "TotalSugars": "9.2 g",
+      "Trans Fatty Acids": "0 g",
+      "sodium": "490 mg",
+      "protein": "6.7 g",
+      "PUFA": "0.2 g",
+      "Vitamin B2": "1.2 mg",
+      "fats": "1 g",
+      "Vitamin B12": "0.33 μg"
+    },
+    "Allergens": [
+      "Wheat",
+      "Barley ",
+      "Milk",
+      "Oats",
+      "Soy",
+      "Nuts"
+    ],
+    "updatedAt": {
+      "seconds": 1738875933,
+      "nanoseconds": 565000000
+    },
+    "artificialIngredients": [
+      "Antioxidant (INS 307b)"
+    ],
+    "numberOfRatings": 0,
+    "categoryId": "3",
+    "userRating": 0,
+    "name": "Kellogg's Corn Flakes - Original",
+    "cons": [
+      "High in sugar",
+      "High in sodium"
+    ],
+    "healthScore": 67,
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2FKELLOGG-S-CORN-FLAKES-1-2-KG-PRODUCT-IMAGES-O491586426-P491586426-0-202403011830%20Background%20Removed.png?alt=media&token=d0ad5d64-4f3e-4324-ab6c-9cabf9035df8"
+  },
+  {
+    "id": "JkmE06drdmT1rVO2e74j",
+    "name": "Thums Up Pet Bottle, 2.25L",
+    "categoryId": "",
+    "healthScore": 71,
+    "nutritionInfo": {
+      "energy": "42 kcal",
+      "fiber": "",
+      "iron": "",
+      "protein": "0 g",
+      "fats": "0 g",
+      "fruitsVegetablesNuts": "",
+      "sodium": "0.81 mg",
+      "sugars": "10.4 g",
+      "vitaminB": "",
+      "carbohydrates": "10.6 g"
+    },
+    "pros": [
+      ""
+    ],
+    "calculationDetails": {
+      "negativePoints": 1,
+      "positivePoints": 0,
+      "fsaScore": 1
+    },
+    "numberOfRatings": null,
+    "ingredients": [
+      "CARBONATED WATER",
+      "SUGAR",
+      "ACIDITY REGU-LATOR (338)",
+      "CAFFEINE",
+      "PERMIT-TED NATURAL COLOUR (150d) AND ADDED FLAVOURS (NATURAL",
+      "NATURE- IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (COLA FLAVOUR))."
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F61tiR5teCjL._SX679_.jpg?alt=media&token=3a82687b-a933-414f-9d87-f91fe27425d2",
+    "updatedAt": {
+      "seconds": 1738875948,
+      "nanoseconds": 338000000
+    },
+    "cons": [
+      "High Sugar Content",
+      "Artificial Ingredients"
+    ],
+    "barcodes": [
+      "8901764042904"
+    ],
+    "userRating": null
+  },
+  {
+    "id": "Oi1I3yk5ekDgM7mz305m",
+    "calculationDetails": {
+      "positivePoints": 2,
+      "fsaScore": -1,
+      "negativePoints": 1
+    },
+    "healthScore": 75,
+    "barcodes": [
+      "8906134530012"
+    ],
+    "cons": [
+      "Contains acidity regulator (Dipotassium Phosphate)",
+      "Improved with synthetic vitamins (D, B2, B12)"
+    ],
+    "categoryId": "6",
+    "updatedAt": {
+      "seconds": 1738875955,
+      "nanoseconds": 598000000
+    },
+    "pros": [
+      "No added sugar",
+      "Rich in calcium and Vitamin B1"
+    ],
+    "nutritionInfo": {
+      "fruitsVegetablesNuts": "0",
+      "Saturated Fat": "0.3 g",
+      "Monounsaturated fat": "0.6 g",
+      "Omega 6": "1.0 g",
+      "Potassium ": "117.2 mg",
+      "carbohydrates": "14.5 g",
+      "iron": "0.5 mg",
+      "sodium": "89 mg",
+      "fiber": "1.3 g",
+      "protein": "2.3 g",
+      "Manganese": "0.4 mg",
+      "Magnesium ": "14.5 mg",
+      "Vitamin B12": "0.5 μg ",
+      "Vitamin D": "0.9 μg",
+      "Vitamin B1": "0.5 mg",
+      "vitaminB": "0",
+      "Omega 9": "0.6 g",
+      "Calcium ": "218.8 mg",
+      "sugars": "8.4 g",
+      "fats": "2.1 g",
+      "Polyunsaturated fat": "1.0 g",
+      "Phosphorus ": "69 mg",
+      "energy": "43 kcal",
+      "Vitamin B2": "0.3 mg"
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2FOnly%20Earth%20Oats%20Milk%20Original%20Unsweetened%20%20(1%20L)%20.jpg?alt=media&token=e9d09775-1dc0-4dcf-a34d-9d1d0fee2aad",
+    "Allergen ": [
+      "Gluten",
+      "Soy"
+    ],
+    "userRating": 0,
+    "ingredients": [
+      "Water",
+      "Oats",
+      "Sunflower Oil",
+      "Minerals (Calcium Carbonate)",
+      "Acidity Regulator (Dipotassium Phosphate)",
+      "Edible Salt",
+      "Vitamin D",
+      "Vitamin Riboflavin",
+      "Vitamin B12"
+    ],
+    "artificialIngredients": [
+      "Acidity Regulator (Dipotassium Phosphate)",
+      "Minerals & Vitamins (Synthetic)"
+    ],
+    "numberOfRatings": 0,
+    "name": "Only Earth Oats Milk "
+  },
+  {
+    "id": "OkYpuEaNTl11WQcHeEhH",
+    "healthScore": 47,
+    "pros": [
+      "Contains iron",
+      "Low added sugar",
+      "Moderate protein"
+    ],
+    "updatedAt": {
+      "seconds": 1738875959,
+      "nanoseconds": 308000000
+    },
+    "barcodes": [
+      "8901058000290"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F71T0QfFl%2B3L%20Background%20Removed._SL1500_.png?alt=media&token=e036ea86-b3d9-4670-af94-7a542daffa72",
+    "ingredients": [
+      "Refined Wheat Flour",
+      "Palm Oil",
+      "Iodized Salt",
+      "Wheat Gluten",
+      "Thickeners (508)",
+      "Thickeners (412)",
+      "Acidity Regulators (501(i))",
+      "Acidity Regulators (500(i))",
+      "Humectant (451(i))",
+      "Onion Powder",
+      "Coriander Powder",
+      "Turmeric Powder",
+      "Red Chilli Powder",
+      "Garlic Powder",
+      "Cumin Powder",
+      "Aniseed Powder",
+      "Ginger Powder",
+      "Fenugreek Powder",
+      "Black Pepper Powder",
+      "Clove Powder",
+      "Green Cardamom Powder",
+      "Nutmeg Powder",
+      "Groundnut Protein",
+      "Sugar",
+      "Starch",
+      "Flavour Enhancer (635)",
+      "Toasted Onion Flakes",
+      "Acidity Regulator (330)",
+      "Colour (150d)",
+      "Mineral",
+      "Wheat Gluten"
+    ],
+    "categoryId": "8",
+    "numberOfRatings": 0,
+    "name": "MAGGI 2-Minute Noodles",
+    "Allergens": [
+      "Wheat",
+      "Nut",
+      "Milk",
+      "Mustard",
+      "Oats",
+      "Soy"
+    ],
+    "nutritionInfo": {
+      "TotalSugars": "1.8 g",
+      "fruitsVegetablesNuts": "0",
+      "dietaryfiber": "0",
+      "vitaminB1": "0",
+      "sodium": "1028.3 mg",
+      "protein": "8.2 g",
+      "Saturated Fat": "<8.2 g",
+      "Trans Fat": "<0.13 g",
+      "Added Sugars": "1.3 g",
+      "fats": "12.5 g",
+      "energy": "384 kcal",
+      "iron": "6.90 mg",
+      "carbohydrates": "59.6 g"
+    },
+    "calculationDetails": {
+      "positivePoints": 5,
+      "fsaScore": 14,
+      "negativePoints": 14
+    },
+    "cons": [
+      "High in sodium",
+      "High in saturated fat",
+      "Contains flavor enhancer",
+      ""
+    ],
+    "artificialIngredients": [
+      "Acidity Regulator (330)",
+      "Colour (150d)",
+      "Thickeners (508)",
+      "Thickeners (412)",
+      "Acidity Regulators (501(i))",
+      "Acidity Regulators (500(i))",
+      "Flavour Enhancer (635)"
+    ],
+    "userRating": 0
+  },
+  {
+    "id": "RV5NC6EIH5quWKz26oOR",
+    "userRating": 0,
+    "updatedAt": {
+      "seconds": 1738875716,
+      "nanoseconds": 315000000
+    },
+    "numberOfRatings": 0,
+    "barcodes": [
+      "8901063142305"
+    ],
+    "name": "Britannia Nutri Choice",
+    "artificialIngredients": [
+      "Raising agents 1500(i)",
+      "Raising agents 503(i)",
+      "Emulsifiers (322(i), 471 & 472e)",
+      "Vanilla flavouring"
+    ],
+    "healthScore": 62,
+    "pros": [
+      "Good fiber content",
+      "No trans fats",
+      "No cholesterol"
+    ],
+    "calculationDetails": {
+      "positivePoints": 10,
+      "negativePoints": 11,
+      "fsaScore": 6
+    },
+    "cons": [
+      "High in added sugar",
+      "High in saturated fat",
+      "Contains artificial flavoring",
+      "Contains emulsifiers"
+    ],
+    "ingredients": [
+      "Wheat flour",
+      "Palm oil",
+      "Sugar",
+      "Wheat bran",
+      "Liquid glucose",
+      "Whey powder",
+      "Milk solids",
+      "Maltodextrin",
+      "Raising agents 1500(i)",
+      "Raising agents 503(i)",
+      "Iodised salt",
+      "Emulsifiers",
+      "Vanilla flavouring",
+      "Malt extract",
+      "Dough conditioner",
+      "Soya",
+      "Barley",
+      "Sulphite"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F71SnYr3JO-L%20Background%20Removed._SL1500_.png?alt=media&token=24c027e2-32e3-428d-95bd-44f5c9532b05",
+    "categoryId": "2",
+    "nutritionInfo": {
+      "iron": "0",
+      "fruitsVegetablesNuts": "0",
+      "fiber": "7.3 g la",
+      "carbohydrates": "la",
+      "protein": "9.1 g",
+      "sodium": "368 mg",
+      "fats": "20.9",
+      "vitaminB": "0",
+      "sugars": "13.1 g la ",
+      "energy": "481 kcal"
+    }
+  },
+  {
+    "id": "S1vgyBsf2CTrRb23yKuG",
+    "name": "Lay's Spanish Tomato",
+    "categoryId": "9",
+    "healthScore": 49,
+    "artificialIngredients": [
+      "Flavour enhancers (627, 631)",
+      "Flavour (Natural & identical)"
+    ],
+    "nutritionInfo": {
+      "iron": "0",
+      "Saturated fat": "12.2 g",
+      "sugars": "5.6 g",
+      "Added sugars": "4.5 g",
+      "fats": "32.2 g",
+      "fiber": "0",
+      "carbohydrates": "53.8 g",
+      "vitaminB": "0",
+      "Trans fat": "0.1 g",
+      "sodium": "636 mg",
+      "fruitsVegetablesNuts": "0",
+      "protein": "6.4 g",
+      "energy": "530 kcal"
+    },
+    "pros": [
+      "Low in trans fat",
+      ""
+    ],
+    "calculationDetails": {
+      "positivePoints": 3,
+      "negativePoints": 13,
+      "fsaScore": 13
+    },
+    "numberOfRatings": 0,
+    "ingredients": [
+      "Potato",
+      "Palmolein oil",
+      "Rice bran oil",
+      "Sugar",
+      "Iodised salt",
+      "Maltodextrin",
+      "Spices & condiments",
+      "Hydrolysed protein",
+      "Tomato powder",
+      "Dextrose",
+      "Wheat fibre",
+      "Anticaking agent (551)",
+      "Salt substitute (KCl)",
+      "Edible oil (Coconut)",
+      "Flavour enhancers (627, 631)",
+      "Flavour (Natural & identical)",
+      "Soy"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F71Af8qfZQUL%20Background%20Removed._SL1500_.png?alt=media&token=7d48af2c-9a2e-41ef-b90d-3842ec2c2595",
+    "updatedAt": {
+      "seconds": 1738875721,
+      "nanoseconds": 918000000
+    },
+    "cons": [
+      "High in saturated fat",
+      "High in sodium",
+      "Contains flavor enhancers"
+    ],
+    "barcodes": [
+      "8901491981811"
+    ],
+    "userRating": 0
+  },
+  {
+    "id": "SXHdQpXYUKbt1MhmQ0B1",
+    "cons": [
+      "Extremely high in sugar",
+      "High in saturated fat"
+    ],
+    "numberOfRatings": 0,
+    "updatedAt": {
+      "seconds": 1738875727,
+      "nanoseconds": 612000000
+    },
+    "healthScore": 49,
+    "name": "Dairy Milk Fruit & Nut",
+    "categoryId": "4",
+    "pros": [
+      "Contains almonds",
+      "Contains raisins",
+      ""
+    ],
+    "userRating": 0,
+    "nutritionInfo": {
+      "sodium": "114 mg",
+      "sugars": "49.6 g",
+      "carbohydrates": "57.4 g",
+      "fiber": "0",
+      "fats": "28.5 g",
+      "Saturated fat": "14.1 g",
+      "protein": "8.7 g",
+      "iron": "0",
+      "fruitsVegetablesNuts": "0",
+      "Trans fat": "0.1 g",
+      "energy": "521 kcal",
+      "vitaminB": "0"
+    },
+    "calculationDetails": {
+      "fsaScore": 13,
+      "negativePoints": 13,
+      "positivePoints": 5
+    },
+    "ingredients": [
+      "Sugar",
+      "Milk solids",
+      "Cocoa butter",
+      "Raisins",
+      "Cocoa solids",
+      "Almonds",
+      "Emulsifiers (442)",
+      "Emulsifiers (476)",
+      "Artificial (Ethyl vanillin)",
+      "Natural flavouring",
+      "Identical flavouring"
+    ],
+    "artificialIngredients": [
+      "Ethyl vanillin",
+      "Emulsifiers (442)",
+      "Emulsifiers (476)"
+    ],
+    "barcodes": [
+      "7622201150181"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F61YYjWyH0LL%20Background%20Removed._SL1500_.png?alt=media&token=67583818-189d-41e4-b4ee-5126d9a20984"
+  },
+  {
+    "id": "T4dJxV4XpFJtPjkUXV4p",
+    "healthScore": 55,
+    "categoryId": "1",
+    "userRating": 0,
+    "ingredients": [
+      "Refined Wheat Flour",
+      "Sugar",
+      "Eggs",
+      "Edible Vegetable Oil",
+      "Palm Olein Oil",
+      "Pineapple Cuts",
+      "Papaya Cuts",
+      "Orange Pulp",
+      "Humectants 422",
+      "Humectants 420",
+      "Maltose Syrup",
+      "Edible Starch",
+      "Penta Cake Raising Agents 450(i)",
+      "Raising Agents 500(i)",
+      "Raising Agents 341(i)",
+      "Raising Agents 341(ii)",
+      "Emulsifiers 472e",
+      "Emulsifiers 466",
+      "Emulsifiers 435",
+      "Stabilizer 412",
+      "Acidity Regulator 330",
+      "Raising Agents 341(i)",
+      "Raising Agents 500(ii)",
+      "Raising Agents 450(i)",
+      "Cake Gel Emulsifiers",
+      "Cake Gel Stabilizers 471",
+      "Cake Gel Stabilizers 477",
+      "Humectant 420(1)",
+      "Iodised Salt",
+      "Invert Syrup",
+      "Preservatives 202",
+      "Preservatives 282",
+      "Baking Powder",
+      "Acidity Regulator 330",
+      "Stabilizer 415",
+      "Food Colour 102",
+      "Vanilla Flavour",
+      "Fruit Flavour"
+    ],
+    "nutritionInfo": {
+      "carbohydrates": "58g",
+      "fats": "17g",
+      "protein": "5g",
+      "fruitsVegetablesNuts": "0",
+      "energy": "405 kcal",
+      "dietaryfiber": "0",
+      "iron": "0",
+      "Allergens": "Wheat;Eggs",
+      "sodium": "0",
+      "vitaminB1": "0",
+      "TotalSugars": "26.5g"
+    },
+    "numberOfRatings": 0,
+    "artificialIngredients": [
+      "Humectants 422 (Glycerol)",
+      "Humectants 420 (Sorbitol)",
+      "Emulsifiers 472e",
+      "Emulsifiers 466",
+      "Emulsifiers 435",
+      "Stabilizer 412",
+      "Preservatives 202 (Sodium Benzoate)",
+      "Preservatives 282 (Calcium Propionate)",
+      "Food Colour 102 (Tartrazine)",
+      "Vanilla Flavour",
+      "Fruit Flavour"
+    ],
+    "cons": [
+      "High in sugar",
+      "Contains artificial colors",
+      "Includes preservatives"
+    ],
+    "pros": [
+      "Contains Real fruit products"
+    ],
+    "name": "Britannia Gobbles Fruity Fun",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F61n0fnxZhUL%20Background%20Removed._SL1500_.png?alt=media&token=8a2fa5f9-d7b9-4540-a0a9-2c87456b17b5",
+    "barcodes": [
+      "8901063363977"
+    ]
+  },
+  {
+    "id": "T89LB7BN6LerB03WM3zF",
+    "userRating": 0,
+    "updatedAt": {
+      "seconds": 1738875737,
+      "nanoseconds": 563000000
+    },
+    "numberOfRatings": 0,
+    "name": "Britannia Good Day",
+    "barcodes": [
+      "8901063093522"
+    ],
+    "healthScore": 53,
+    "artificialIngredients": [
+      "Raising agents 503(ii)",
+      "Raising agents 500(ii)",
+      "Emulsifiers (322(i), 471, 472e)",
+      "Artificial vanilla flavouring."
+    ],
+    "pros": [
+      "No trans fat",
+      "Contains cashew nuts"
+    ],
+    "calculationDetails": {
+      "positivePoints": 4,
+      "negativePoints": 11,
+      "fsaScore": 11
+    },
+    "cons": [
+      "High in added sugars",
+      "High saturated fat",
+      "Contains artificial flavoring"
+    ],
+    "ingredients": [
+      "Refined wheat flour",
+      "Palm oil",
+      "Sugar",
+      "Cashew nuts",
+      "Invert sugar syrup",
+      "Milk solids",
+      "Butter",
+      "Raising agents 503(ii)",
+      "Raising agents 500(ii)",
+      "Iodised salt",
+      "Emulsifiers",
+      "Flavourings (milk & vanilla)"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F61IhdI0oN8L%20Background%20Removed._SL1500_.png?alt=media&token=28f3bc5f-f7e0-4f3a-ae7a-c844fbb8fcc9",
+    "categoryId": "2",
+    "nutritionInfo": {
+      "Saturated fatty acids": "11.5 g",
+      "fruitsVegetablesNuts": "0",
+      "Poly unsaturated fat": "2.4 g",
+      "Mono unsaturated fat": "9.1 g",
+      "sugars": "21.9 g",
+      "fiber": "0",
+      "sodium": "231 mg",
+      "protein": "6.6 g",
+      "iron": "0",
+      "carbohydrates": "67.7 g",
+      "fats": "23.4 g",
+      "Added Sugars": "20.8 g",
+      "energy": "508 kcal",
+      "vitaminB": "0",
+      "Cholesterol": "3.2 mg",
+      "Trans fatty acids": "0 g"
+    }
+  },
+  {
+    "id": "TwOc8JGdOeZ5zPzm0UBh",
+    "pros": [
+      "High in vegetables",
+      "Low in added sugars"
+    ],
+    "name": "Mccain Veggie Finger",
+    "barcodes": [
+      "8906000610923"
+    ],
+    "ingredients": [
+      "Potato",
+      "Carrot",
+      "Peas",
+      "Sweet Corn",
+      "Wheat Flour",
+      "Yeast",
+      "Iodized Salt",
+      "Antioxidant [INS 300])",
+      "Palmolein Oil",
+      "Maize Starch",
+      "Iodized Salt",
+      "Thickener [INS 466])",
+      "Rice Flakes",
+      "Maize Starch",
+      "Spices & Condiments",
+      "Parsley"
+    ],
+    "updatedAt": {
+      "seconds": 1738875741,
+      "nanoseconds": 304000000
+    },
+    "healthScore": 64,
+    "artificialIngredients": [
+      "Antioxidant (INS 300)",
+      "Thickener (INS 466)"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F81C6apeWpJL%20Background%20Removed._SL1500_.png?alt=media&token=dd73ac42-1417-4988-acb7-0e1ad966278e",
+    "Allergens": [
+      "Wheat",
+      "Milk"
+    ],
+    "cons": [
+      "High in sodium",
+      "Contains wheat flour",
+      "Contains palmolein oil"
+    ],
+    "nutritionInfo": {
+      "iron": "0",
+      "dietaryfiber": "0",
+      "TotalSugars": "1.11 g",
+      "energy": "185.77 kcal",
+      "Added Sugars": "0 g ",
+      "vitaminB1": "0",
+      "fruitsVegetablesNuts": "0",
+      "fats": "7.13 g",
+      "Saturated Fat ": "<3.4 g",
+      "Trans Fat": "<0.1 g",
+      "sodium": "501 mg",
+      "protein": "3.65 g",
+      "carbohydrates": "26.75 g"
+    },
+    "userRating": 0,
+    "numberOfRatings": 0,
+    "calculationDetails": {
+      "negativePoints": 7,
+      "fsaScore": 5,
+      "positivePoints": 2
+    },
+    "categoryId": "8"
+  },
+  {
+    "id": "UiUJzg0JWoMwuOy4nDeg",
+    "pros": [
+      ""
+    ],
+    "categoryId": "4",
+    "userRating": 0,
+    "ingredients": [
+      "Sugar",
+      "Milk solids",
+      "Fractionated fat",
+      "Hydrogenated fats",
+      "Refined wheat flour",
+      "Cocoa solids",
+      "Emulsifier (Soya lecithin)",
+      "Yeast",
+      "Raising agent (500(ii))",
+      "Artificial vanilla flavouring",
+      "Iodised salt",
+      "Flour agent (516)",
+      "Identical flavouring",
+      "Sesame",
+      "Soy"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F61lNTVIOuhL%20Background%20Removed._SL1100_.png?alt=media&token=dce72b9c-e32e-47ed-8b36-76c1f45c9e84",
+    "healthScore": 60,
+    "updatedAt": {
+      "seconds": 1738875744,
+      "nanoseconds": 671000000
+    },
+    "cons": [
+      "High in sugar",
+      "High in saturated fat"
+    ],
+    "numberOfRatings": 0,
+    "barcodes": [
+      "8901058904741"
+    ],
+    "name": "Kit Kat",
+    "artificialIngredients": [
+      "Artificial vanilla flavouring",
+      "Identical flavouring"
+    ],
+    "nutritionInfo": {
+      "iron": "0",
+      "Trans fat": "0.04 g",
+      "sodium": "97.4 mg",
+      "sugars": "35.1 g",
+      "energy": "438 kcal",
+      "protein": "6.4 g",
+      "fats": "24.8 g",
+      "fiber": "0",
+      "carbohydrates": "47.4 g",
+      "fruitsVegetablesNuts": "0",
+      "vitaminB": "0",
+      "Saturated fat ": "24.5 g",
+      "Added Sugar": "28.9 g"
+    },
+    "calculationDetails": {
+      "positivePoints": 3,
+      "fsaScore": 7,
+      "negativePoints": 10
+    }
+  },
+  {
+    "id": "W5NFuO3DimD6CRQMc75d",
+    "barcodes": [
+      "8904083307112"
+    ],
+    "cons": [
+      "High in sodium",
+      "Contains artificial emulsifiers",
+      "Contains preservatives"
+    ],
+    "name": "Milky Mist Cheese Cubes",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2FMilky%20Mist%20Cheese%20Cubes.jpg?alt=media&token=712bd44a-26bf-46c1-8f59-3979ee0dbdc7",
+    "nutritionInfo": {
+      "vitaminB": "0",
+      "sodium": "1439 mg",
+      "fats": "25 g",
+      "protein": "19 g",
+      "fiber": "0",
+      "fruitsVegetablesNuts": "0",
+      "Phosphorus": "885 mg",
+      "carbohydrates": "3 g",
+      "iron": "0",
+      "sugars": "0 g",
+      "Vitamin A": "281 mcg",
+      "Calcium": "551 mg",
+      "energy": "313 kcal"
+    },
+    "updatedAt": {
+      "seconds": 1738875748,
+      "nanoseconds": 310000000
+    },
+    "artificialIngredients": [
+      "Emulsifiers [INS 331 (iii)]",
+      "Emulsifiers [INS 452]",
+      "Emulsifiers [INS 340 (ii)]",
+      "Preservatives (INS 200)",
+      "Preservatives (INS 234)"
+    ],
+    "numberOfRatings": 0,
+    "pros": [
+      "High in protein",
+      "Rich in calcium and phosphorus",
+      "No added sugar."
+    ],
+    "userRating": 0,
+    "calculationDetails": {
+      "negativePoints": 13,
+      "positivePoints": 5,
+      "fsaScore": 13
+    },
+    "healthScore": 49,
+    "ingredients": [
+      "Cheese",
+      "Water",
+      "Milk solids",
+      "Emulsifiers [INS 331 (iii)]",
+      "Emulsifiers [INS 452]",
+      "Emulsifiers [INS 340 (ii)]",
+      "lodised Salt",
+      "Preservatives (INS 200)",
+      "Preservatives (INS 234)"
+    ],
+    "categoryId": "6"
+  },
+  {
+    "id": "WwWZMg0c29mehLC6hEbd",
+    "artificialIngredients": [
+      "Artificial flavouring (vanilla)",
+      "Raising agents 500(i)",
+      "Raising agents 503(i)",
+      "Colour (150c)"
+    ],
+    "updatedAt": {
+      "seconds": 1738875753,
+      "nanoseconds": 439000000
+    },
+    "calculationDetails": {
+      "positivePoints": 4,
+      "fsaScore": 11,
+      "negativePoints": 11
+    },
+    "healthScore": 53,
+    "name": "Cadbury Bournvita",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F71lGT1zk9kL%20Background%20Removed._SL1500_.png?alt=media&token=ad4791f5-7dd6-4f6e-bcd6-25410f922a50",
+    "numberOfRatings": 0,
+    "cons": [
+      "High in added sugars",
+      "High in saturated fat",
+      "Contains trans fat",
+      ""
+    ],
+    "userRating": 0,
+    "ingredients": [
+      "Refined wheat flour",
+      "Sugar",
+      "Palmolein oil",
+      "barley",
+      "millets",
+      "wheat",
+      "Cocoa solids",
+      "Maltodextrin",
+      "Colour (150c)",
+      "Minerals",
+      "Wheat gluten",
+      "Liquid glucose",
+      "Emulsifiers (322)",
+      "Emulsifiers (471)",
+      "Milk solids",
+      "Vitamins",
+      "Raising agent (500(i))",
+      "Iodized salt",
+      "Invert sugar",
+      "Leavening agents (500(i))",
+      "Leavening agents (503(i))",
+      "identical & vanilla flavour"
+    ],
+    "nutritionInfo": {
+      "iron": "6.5 mg",
+      "sodium": "357 mg",
+      "Vitamin D": "2.25 mcg",
+      "Folic acid": "15 g",
+      " Added Sugars": "25.5 g",
+      "Cholesterol": "0 mg",
+      "Saturated Fat": "6.8 g",
+      "energy": "456 kcal",
+      "fats": "15.3 g",
+      "sugars": "28.3 g",
+      "carbohydrates": "72.8 g",
+      "Vitamin B2": "0.24 mg",
+      "Calcium": " 282 mg",
+      "fiber": "0",
+      "Trans Fat": "0.1 g",
+      "fruitsVegetablesNuts": "0",
+      "protein": " 7.1 g",
+      "vitaminB": "0"
+    },
+    "barcodes": [
+      "7622202207778"
+    ],
+    "pros": [
+      "High in calcium",
+      "Contains Iron",
+      ""
+    ],
+    "categoryId": "2"
+  },
+  {
+    "id": "XTwfboy9e70x7Q6sOIwG",
+    "updatedAt": {
+      "seconds": 1738875756,
+      "nanoseconds": 327000000
+    },
+    "nutritionInfo": {
+      "Folic Acid ": "1000",
+      "Cholesterol ": "<1 mg",
+      "fruitsVegetablesNuts": "0",
+      "Trans Fat": "<0.01 g",
+      "Calcium ": "3.09 mg",
+      "Insoluble dietary fibre ": "4.78 g",
+      "sugars": "26.81 g",
+      "Soluble dietary fibre": "1.66 g",
+      "energy": "389.88 kcal",
+      "sodium": "198.8 mg",
+      "protein": "7.77 g",
+      "Zinc": "0.9 mg",
+      "Monounsaturated Fat": "2.45 g",
+      "Added Sugar": "14.32 g",
+      "vitaminB": "0",
+      "fats": "4.12 g",
+      "iron": "5.9 mg",
+      "Polyunsaturated Fat": "1.14 g",
+      "fiber": "0",
+      "carbohydrates": "80.25 g",
+      "Saturated Fat": "0.52 g"
+    },
+    "ingredients": [
+      "Wheat",
+      "Corn Grits",
+      "Rice",
+      "Rolled Barley",
+      "Rolled Oats",
+      "Dried Papaya",
+      "Dried Apple",
+      "Raisins",
+      "Almonds",
+      "Sugar",
+      "Malt Extract",
+      "Iodised Salt",
+      "Wheat Bran",
+      "Vitamins & Minerals",
+      "Antioxidant (INS 320)",
+      "Antioxidant (INS 307b)"
+    ],
+    "userRating": 0,
+    "healthScore": 64,
+    "artificialIngredients": [
+      "Antioxidant (INS 320)",
+      "Antioxidant (INS 307b)"
+    ],
+    "calculationDetails": {
+      "positivePoints": 4,
+      "negativePoints": 9,
+      "fsaScore": 5
+    },
+    "cons": [
+      "Contains added sugar",
+      "Includes antioxidants"
+    ],
+    "categoryId": "3",
+    "barcodes": [
+      "8904256717977"
+    ],
+    "name": "bb Royal Muesli Fruit & Nut",
+    "pros": [
+      "Contains a variety of whole grains",
+      "High in fiber"
+    ],
+    "numberOfRatings": 0,
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2Froyal--removebg-preview.png?alt=media&token=ff7a6c55-e188-42ed-8228-bc90629b6ec6"
+  },
+  {
+    "id": "aGke3OGcihGqfwd6MduQ",
+    "healthScore": 47,
+    "pros": [
+      "Low in fat"
+    ],
+    "nutritionInfo": {
+      "Added Sugars": "22 g",
+      "vitaminB": "0",
+      "fiber": "0",
+      "sodium": "985 mg",
+      "iron": "0",
+      "carbohydrates": "31.3 g",
+      "energy": "125 kcal",
+      "fats": "0 g",
+      "fruitsVegetablesNuts": "0",
+      "sugars": "25 g",
+      "protein": "0 g"
+    },
+    "name": "Del Monte Tomato Ketchup ",
+    "artificialIngredients": [
+      "Acidity Regulator (INS 260)",
+      "Thickeners (INS 1422)",
+      "Thickeners (INS 415)",
+      "Preservative (INS 211)."
+    ],
+    "userRating": 0,
+    "updatedAt": {
+      "seconds": 1738875760,
+      "nanoseconds": 580000000
+    },
+    "cons": [
+      "Contains artificial preservatives and thickeners",
+      "High in added sugar"
+    ],
+    "barcodes": [
+      "8901246005793"
+    ],
+    "calculationDetails": {
+      "fsaScore": 14,
+      "negativePoints": 14,
+      "positivePoints": 0
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2FDel%20Monte%20Tomato%20Ketchup%20.webp?alt=media&token=38b542a1-e0bb-4c05-99e5-2e7fe665a75d",
+    "categoryId": "12",
+    "numberOfRatings": 0,
+    "ingredients": [
+      "Water",
+      "Tomato Paste",
+      "Sugar",
+      "lodized Salt",
+      "Acidity Regulator (INS 260)",
+      "Thickeners (INS 1422)",
+      "Thickeners (INS 415)",
+      "Spices",
+      "Condiments (Onion, Garlic and Potato Powder)",
+      "Preservative (INS 211)."
+    ]
+  },
+  {
+    "id": "adbtR3WVmznM3tzDttyk",
+    "healthScore": 55,
+    "pros": [
+      "Low in total sugar",
+      "Low in saturated fat"
+    ],
+    "cons": [
+      "Very high in sodium",
+      "Contains antioxidant (INS 307b)",
+      "Includes malt extract (gluten)"
+    ],
+    "artificialIngredients": [
+      "Antioxidant (INS 307b)"
+    ],
+    "Allergens ": [
+      "Gluten"
+    ],
+    "nutritionInfo": {
+      "carbohydrates": "88.4 g",
+      "fruitsVegetablesNuts": "0",
+      "Saturated Fat": "0.14 g",
+      "TotalSugars": "7.8 g",
+      "energy": "388 kcal",
+      "iron": "2.04 mg",
+      "fats": "0.79 g",
+      "Added Sugars ": "5.39 g",
+      "sodium": "885.88 mg",
+      "Cholesterol ": "0 mg",
+      "protein": "6.8 g",
+      "vitaminB1": "0",
+      "dietaryfiber": "2.86 g"
+    },
+    "ingredients": [
+      "Corn Grits",
+      "Sugar",
+      "Malt Extract",
+      "Iodized Salt",
+      "Antioxidant (INS 307b)"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2Fflkkkk%20Background%20Removed.png?alt=media&token=508c2513-df3d-45ef-8ebc-618d5661d39c",
+    "calculationDetails": {
+      "negativePoints": 14,
+      "positivePoints": 8,
+      "fsaScore": 10
+    },
+    "userRating": 0,
+    "name": "bb Royal Corn Flakes ",
+    "categoryId": "3",
+    "barcodes": [
+      "8904256702393"
+    ],
+    "numberOfRatings": 0,
+    "updatedAt": {
+      "seconds": 1738875764,
+      "nanoseconds": 336000000
+    }
+  },
+  {
+    "id": "blG79r7Yq3nkVoab30ft",
+    "healthScore": 82,
+    "name": "bb Royal Instant Oats",
+    "nutritionInfo": {
+      "iron": "3.59 mg",
+      "fruitsVegetablesNuts": "0",
+      "carbohydrates": "67.7 g",
+      "protein": "12.16 g",
+      "vitaminB1": "0",
+      "Zinc": "2.29 mg",
+      "Magnesium ": "103.59 mg",
+      "sodium": "2.74 mg",
+      "energy": "407.16 kcal",
+      "Trans fat": "0.1 g",
+      "Soluble fibre": "3.98 g",
+      "Saturated fat": "1.84 g",
+      "Cholesterol ": "<1 mg",
+      "fats": "9.76 g",
+      "dietaryfiber": "10.63 g",
+      "TotalSugars": "0.88 g",
+      "Insoluble fibre": "6.65 g"
+    },
+    "calculationDetails": {
+      "fsaScore": -5,
+      "positivePoints": 10,
+      "negativePoints": 5
+    },
+    "artificialIngredients": [
+      ""
+    ],
+    "ingredients": [
+      "Oats"
+    ],
+    "categoryId": "3",
+    "numberOfRatings": 0,
+    "updatedAt": {
+      "seconds": 1738875772,
+      "nanoseconds": 92000000
+    },
+    "userRating": 0,
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2Foooo-removebg-preview.png?alt=media&token=bceff569-7b14-4d4c-abeb-a704fc55bf65",
+    "Allergens ": "Wheat",
+    "cons": [
+      "0"
+    ],
+    "barcodes": [
+      "8904256726481"
+    ],
+    "pros": [
+      "High in dietary fibre",
+      "Low in sugar",
+      "Good source of protein"
+    ]
+  },
+  {
+    "id": "cV5rDFqBvbY2s7fJXACO",
+    "numberOfRatings": 0,
+    "pros": [
+      ""
+    ],
+    "categoryId": "2",
+    "nutritionInfo": {
+      "iron": "0",
+      "Cholesterol": "0 mg",
+      "carbohydrates": "71.9 g",
+      "fruitsVegetablesNuts": "",
+      "protein": "5.2 g",
+      "sugars": "38.8 g",
+      "Added Sugars": "38.7 g",
+      "sodium": "0",
+      "Trans fat": "0.1 g",
+      "vitaminB": "0",
+      "energy": "483 kcal",
+      "Saturated fat": "9.7 g",
+      "fiber": "",
+      "fats": "19.6 g"
+    },
+    "updatedAt": {
+      "seconds": 1738875775,
+      "nanoseconds": 317000000
+    },
+    "barcodes": [
+      "7622202395598"
+    ],
+    "calculationDetails": {
+      "fsaScore": 11,
+      "negativePoints": 11,
+      "positivePoints": 3
+    },
+    "userRating": null,
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2Fcadbury-oreo-perfection-chocolate-cream-sandwich-biscuit-125-25-g-product-images-o494354706-p607520765-0-202501101847%20Background%20Removed.png?alt=media&token=45f752ca-2790-47af-bbe6-e24db0215f92",
+    "artificialIngredients": [
+      "Leavening Agents (500(ii))",
+      "Leavening Agents (503(ii))",
+      "Emulsifier (322)",
+      "Flavouring Substances."
+    ],
+    "healthScore": 53,
+    "ingredients": [
+      "Refined Wheat Flour",
+      "Sugar",
+      "Fractionated Fat",
+      "Palmolein",
+      "Invert Sugar",
+      "Cocoa Solids",
+      "Leavening Agents 500(ii)",
+      "Leavening Agents 503(ii)",
+      "Starch",
+      "Iodised Salt",
+      "Emulsifier (322)",
+      "Flavouring Substances."
+    ],
+    "cons": [
+      " High in added sugars",
+      "High in saturated fat",
+      "High in sodium"
+    ],
+    "name": "Cadbury Oreo Vanilla"
+  },
+  {
+    "id": "doIvtVbApPxyhjeUpeKx",
+    "calculationDetails": {
+      "negativePoints": 10,
+      "fsaScore": 0,
+      "positivePoints": 10
+    },
+    "healthScore": 73,
+    "barcodes": [
+      "8901499009883"
+    ],
+    "Allergens": [
+      "Gluten",
+      "Wheat",
+      "Milk",
+      "Soy",
+      "Barley",
+      "Nuts",
+      "Oats"
+    ],
+    "cons": [
+      "High in sugar",
+      "Contains artificial flavors"
+    ],
+    "pros": [
+      "High in protein",
+      "Contains vitamins and minerals",
+      "Contains dietary fiber"
+    ],
+    "updatedAt": {
+      "seconds": 1738875780,
+      "nanoseconds": 352000000
+    },
+    "categoryId": "3",
+    "nutritionInfo": {
+      "Vitamin B2": "0.55 mg",
+      "iron": "18 mg",
+      "Vitamin B3": "5 mg\t",
+      "dietaryfiber": "5.5 g",
+      "fruitsVegetablesNuts": "0",
+      "vitaminB1": "0.67 mg",
+      "TotalSugars": "24 g",
+      "carbohydrates": "82.1 g",
+      "sodium": "330 mg",
+      "energy": "379 kcal",
+      "Vitamin B6\t": "1.3 mg\t",
+      "fats": "3 g",
+      "protein": "8.6 g"
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2Fmoon-removebg-preview.png?alt=media&token=92b86061-f904-42c4-ba6a-c6ec9dbebf3c",
+    "userRating": 0,
+    "ingredients": [
+      "Wheat Solids",
+      "Wheat Flour",
+      "Ragi Flour",
+      "Sorghum Flour",
+      "Refined Wheat Flour",
+      "Sugar",
+      "Corn Flour",
+      "Cocoa Solids",
+      "Minerals",
+      "Cereal Extract",
+      "Edible Vegetable Oil (Palmolein)",
+      "Iodized Salt",
+      "Colour (INS 150d)",
+      "Vitamins",
+      "Antioxidant (INS 320)",
+      "Permitted Natural Colour",
+      "Nature Identical Flavours",
+      "Artificial Cream Flavours"
+    ],
+    "artificialIngredients": [
+      "Colour (INS 150d)",
+      "Antioxidant (INS 320)",
+      "Nature Identical Flavours",
+      "Artificial Cream Flavours"
+    ],
+    "numberOfRatings": 0,
+    "name": "Kellogg's Chocos - Moons & Stars"
+  },
+  {
+    "id": "f5biLyzp6yc9f6aJ196a",
+    "pros": [
+      "Low in sugar",
+      ""
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F81UsMs2odYL%20Background%20Removed._SL1500_.png?alt=media&token=e767e219-e397-42fe-882b-f559fe1301ab",
+    "artificialIngredients": [
+      ""
+    ],
+    "barcodes": [
+      "8906000610770"
+    ],
+    "name": "Mccain French Fries",
+    "calculationDetails": {
+      "negativePoints": 1,
+      "positivePoints": 2,
+      "fsaScore": -1
+    },
+    "numberOfRatings": 0,
+    "updatedAt": {
+      "seconds": 1738875784,
+      "nanoseconds": 337000000
+    },
+    "categoryId": "8",
+    "cons": [
+      "High in saturated fat",
+      ""
+    ],
+    "userRating": 0,
+    "nutritionInfo": {
+      "TotalSugars": "<0.4 g",
+      "vitaminB1": "0",
+      "fruitsVegetablesNuts": "0",
+      "sodium": "0",
+      "protein": "3.59 g",
+      "Saturated Fat": "2.42 g",
+      "Trans Fat": "<0.1 g",
+      "carbohydrates": "22.15 g",
+      "energy": "144.72 kcal",
+      "iron": "0",
+      "fats": "4.64 g",
+      "dietaryfiber": "0"
+    },
+    "healthScore": 75,
+    "ingredients": [
+      "Potato",
+      "Palmolein Oil",
+      "Wheat",
+      "Barley",
+      "Milk",
+      "Soy"
+    ],
+    "Allergens": [
+      ""
+    ]
+  },
+  {
+    "id": "iVENJDmIUP0LhhF5yznZ",
+    "barcodes": [
+      "8901030735110"
+    ],
+    "name": "Kwality Wall's Butterscotch",
+    "calculationDetails": {
+      "positivePoints": 1,
+      "fsaScore": 2,
+      "negativePoints": 3
+    },
+    "updatedAt": {
+      "seconds": 1738875789,
+      "nanoseconds": 590000000
+    },
+    "artificialIngredients": [
+      "Food Colour(E102)",
+      "Butterscotch Flavour",
+      "Cream Caramel Flavour",
+      ""
+    ],
+    "nutritionInfo": {
+      "protein": "1.9 g",
+      "Saturated Fat": "3.5 g",
+      "Trans Fat": "0.03 g",
+      "carbohydrates": "15.1 g",
+      "sodium": "28 mg",
+      "vitaminB1": "0",
+      "Added Sugars": "12.0 g",
+      "TotalSugars": "14.6 g",
+      "fats": "6.1 g",
+      "fruitsVegetablesNuts": "0",
+      "dietaryfiber": "0.1 g",
+      "energy": "123 kcal",
+      "Cholesterol": "1.8 mg",
+      "iron": "0"
+    },
+    "pros": [
+      ""
+    ],
+    "cons": [
+      "High in sugars",
+      "Contains artificial flavors",
+      ""
+    ],
+    "numberOfRatings": 0,
+    "userRating": 0,
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F61M9j2krKnL%20Background%20Removed._SL1500_.png?alt=media&token=0c7785ed-fcc9-4f9b-a500-a29122c06743",
+    "ingredients": [
+      "Water",
+      "Sugar",
+      "Butterscotch Flavour",
+      "Cashew Nuts",
+      "Butter",
+      "Milk Solids",
+      "Palm Oil",
+      "Liquid Glucose",
+      "Emulsifier(E471)",
+      "Stabilisers (E412)",
+      "Stabilisers (E410)",
+      "Stabilisers (E407)",
+      "Food Colour(E102)",
+      "Edible oil",
+      "Cream Caramel Flavour"
+    ],
+    "categoryId": "4",
+    "healthScore": 69
+  },
+  {
+    "id": "iZV2pnDwtZJzbhtIXGZc",
+    "healthScore": 47,
+    "nutritionInfo": {
+      "iron": "0",
+      "fruitsVegetablesNuts": "0",
+      "Cholesterol": "3.8 mg",
+      "Saturated Fat": "17.6 g",
+      "sodium": "236 mg",
+      "TotalSugars": "44.2 g",
+      "energy": "540 kcal",
+      "fats": "33.1 g.",
+      "vitaminB1": "0",
+      "protein": "7.9 g",
+      "dietaryfiber": "0",
+      "carbohydrates": "54.3 g",
+      "Trans Fat": "0.1 g",
+      "Added Sugars": "37.4 g"
+    },
+    "pros": [
+      "Good protein content",
+      "Contains peanuts"
+    ],
+    "Allergens": [
+      "Milk",
+      "Peanut",
+      "Soy"
+    ],
+    "name": "Cadbury Fuse Peanut & Caramel",
+    "artificialIngredients": [
+      "Hydrogenated Oil",
+      "Interesterified fat",
+      "Humectant (422)",
+      "Artificial (Vanilla) Flavouring",
+      "Artificial (Caramel) Flavouring",
+      "Emulsifiers (322)",
+      "Emulsifiers(471)",
+      "Emulsifiers (442)",
+      "Emulsifiers (476)"
+    ],
+    "userRating": 0,
+    "updatedAt": {
+      "seconds": 1738875793,
+      "nanoseconds": 335000000
+    },
+    "cons": [
+      "High in total sugar",
+      "High in saturated fat",
+      ""
+    ],
+    "barcodes": [
+      "7622202216336"
+    ],
+    "calculationDetails": {
+      "positivePoints": 4,
+      "fsaScore": 14,
+      "negativePoints": 14
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F51s2b5n5yVL%20Background%20Removed._SL1200_.png?alt=media&token=33fb57b2-2d03-4a91-8014-85c933dd7d79",
+    "categoryId": "4",
+    "numberOfRatings": 0,
+    "ingredients": [
+      "Peanuts",
+      "Sugar",
+      "Interesterified Fat",
+      "Liquid Glucose",
+      "Milk Solids",
+      "Hydrogenated Oil",
+      "Cocoa Solids",
+      "Invert Sugar",
+      "Humectant (422)",
+      "Iodised Salt",
+      "Emulsifiers (322)",
+      "Emulsifiers(471)",
+      "Emulsifiers (442)",
+      "Emulsifiers (476)",
+      "Cocoa Butter",
+      "Lactose",
+      "Fractionated Fat",
+      "Artificial Vanilla Flavouring",
+      "Artificial Caramel Flavouring"
+    ]
+  },
+  {
+    "id": "jFHw4B7gJGOI97HQhG2A",
+    "pros": [
+      "Low in added sugars"
+    ],
+    "name": "Lays Cream & Onion",
+    "numberOfRatings": 0,
+    "healthScore": 49,
+    "userRating": 0,
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F71%2Bbz5i4SDL%20Background%20Removed._SL1500_.png?alt=media&token=15ba2911-2c65-4040-8e34-56eeb3be8a19",
+    "nutritionInfo": {
+      "vitaminB": "0",
+      "energy": "537 kcal",
+      "protein": "6.7 g",
+      "Trans fat": "0.1 g",
+      "Added sugars": "2.0 g",
+      "sodium": "643 mg",
+      "iron": "0",
+      "Saturated fat": "14.8 g",
+      "carbohydrates": "53.0 g",
+      "fruitsVegetablesNuts": "0",
+      "sugars": "3.4 g",
+      "fats": "33.1 g",
+      "fiber": "0"
+    },
+    "updatedAt": {
+      "seconds": 1738875797,
+      "nanoseconds": 52000000
+    },
+    "cons": [
+      "High in saturated fat",
+      "High in sodium",
+      "Contains flavor enhancers (627, 631)",
+      "Contains anticaking agent (551)"
+    ],
+    "categoryId": "9",
+    "artificialIngredients": [
+      "Flavour enhancer (627)",
+      "Flavour enhancer (631)",
+      "Flavour (Natural & identical)"
+    ],
+    "barcodes": [
+      "8901491101813"
+    ],
+    "calculationDetails": {
+      "negativePoints": 13,
+      "fsaScore": 13,
+      "positivePoints": 4
+    },
+    "ingredients": [
+      "Potato",
+      "Palmolein oil",
+      "Sunflower oil",
+      "Sugar",
+      "Iodised salt",
+      "Milk solids",
+      "Spices & condiments",
+      "Maltodextrin",
+      "Cheese powder",
+      "Hydrolysed protein",
+      "Flavour enhancers (627)",
+      "Flavour enhancers (631)",
+      "Edible oil (Coconut)",
+      "Anticaking agent (551)",
+      "Flavour (Natural & identical)"
+    ]
+  },
+  {
+    "id": "kyibXuw3COIk5sNvENBF",
+    "pros": [
+      ""
+    ],
+    "artificialIngredients": [
+      "Artificial flavouring (vanilla)",
+      "Raising agents 503(ii)",
+      "Raising agents 500(ii)",
+      "Raising agents 450(i)",
+      "Humectant (INS 1520)"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F40206759_10-sunfeast-dark-fantasy-cream-biscuit-vanilla-creme.jpg.webp?alt=media&token=831c2615-49da-42ba-a1c5-060102e97d6c",
+    "barcodes": [
+      "8909081000324"
+    ],
+    "calculationDetails": {
+      "positivePoints": 3,
+      "negativePoints": 13,
+      "fsaScore": 13
+    },
+    "name": "Dark Fantasy Vanilla Crème",
+    "updatedAt": {
+      "seconds": 1738875800,
+      "nanoseconds": 317000000
+    },
+    "numberOfRatings": 0,
+    "categoryId": "2",
+    "cons": [
+      "High added sugar",
+      "High saturated fat",
+      "Contains hydrogenated vegetable oil"
+    ],
+    "userRating": 0,
+    "nutritionInfo": {
+      "fruitsVegetablesNuts": "0",
+      "Added Sugars": "35.1 g",
+      "protein": "6.0 g",
+      "iron": "0",
+      "Saturated Fat": "9.2 g",
+      "vitaminB": "0",
+      "fiber": "0",
+      "fats": "18.5 g",
+      "energy": "481 kcal",
+      "carbohydrates": "72.5 g",
+      "Trans Fat": "0.08 g",
+      "sugars": "36.8 g",
+      "sodium": "241.5 mg"
+    },
+    "healthScore": 49,
+    "ingredients": [
+      "Refined wheat flour",
+      "Sugar",
+      "Refined palm oil",
+      "vegetable oil",
+      "Cocoa solids",
+      "Invert syrup",
+      "Raising agents 503(ii)",
+      "Raising agents 500(ii)",
+      "Raising agents 450(i)",
+      "Iodized salt",
+      "Emulsifier",
+      "Artificial flavouring (vanilla)",
+      "Humectant (INS 1520)",
+      "Soy"
+    ]
+  },
+  {
+    "id": "lHZAQPhXK2bgLvfs3zlG",
+    "pros": [
+      ""
+    ],
+    "artificialIngredients": [
+      "Artificial Flavouring",
+      "Hydrogenated Oil",
+      "Emulsifiers (442)",
+      "Emulsifiers (471)",
+      "Emulsifiers (476)"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F61OW2vSgueL%20Background%20Removed.png?alt=media&token=e7fca870-0081-4f2e-8ce9-0c11dac083dc",
+    "nutritionInfo": {
+      "iron": "0",
+      "dietaryfiber": "0",
+      "Added Sugars": "52.6 g",
+      "vitaminB1": "0",
+      "Saturated Fat": "10.1 g",
+      "Trans Fat": "0.1 g",
+      "carbohydrates": "72.9 g",
+      "sodium": "170 mg",
+      "energy": "444 kcal",
+      "protein": "3.3 g",
+      "TotalSugars": "55.5 g",
+      "Cholesterol": "4.9 mg",
+      "fats": "15.9 g",
+      "fruitsVegetablesNuts": "0"
+    },
+    "calculationDetails": {
+      "positivePoints": 2,
+      "negativePoints": 13,
+      "fsaScore": 13
+    },
+    "cons": [
+      "Extremely high in added sugar",
+      "High in saturated fat",
+      "Contains emulsifiers",
+      "Contains artificial flavors"
+    ],
+    "name": "Cadbury 5 Star",
+    "categoryId": "4",
+    "ingredients": [
+      "Sugar",
+      "Liquid Glucose",
+      "Milk Solids",
+      "Invert Sugar",
+      "Hydrogenated Oil",
+      "Cocoa Butter",
+      "Cocoa Solids",
+      "Fractionated Fat",
+      "Emulsifiers (442)",
+      "Emulsifiers (471)",
+      "Emulsifiers (476)",
+      "Hydrolyzed Veg Protein",
+      "Iodised Salt",
+      "Soy"
+    ],
+    "numberOfRatings": 0,
+    "healthScore": 49,
+    "Allergens": [
+      "Contains Milk;",
+      "Contains Soy",
+      "Contains Sulphites"
+    ],
+    "updatedAt": {
+      "seconds": 1738875803,
+      "nanoseconds": 762000000
+    },
+    "barcodes": [
+      "7622202218262"
+    ],
+    "userRating": 0
+  },
+  {
+    "id": "n0MEwtUsLAl8QjIQz8PB",
+    "barcodes": [
+      "8901725013691"
+    ],
+    "ingredients": [
+      "Rice grits",
+      "Refined palmolein",
+      "Sugar",
+      "Spices&condiments",
+      "Iodized salt",
+      "Nature identical flavours, Hydrolyzed protein",
+      "Degermed corn grits",
+      "Bengal gram grits."
+    ],
+    "artificialIngredients": [
+      "Flavouring agents"
+    ],
+    "cons": [
+      "High in saturated fat",
+      "High in sodium",
+      "Contains added sugars"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F81R07cM4UrL%20Background%20Removed._SL1500_.png?alt=media&token=360be25a-7af2-4f9e-bfcb-f84fbdd3a1d5",
+    "categoryId": "9",
+    "updatedAt": {
+      "seconds": 1738875808,
+      "nanoseconds": 305000000
+    },
+    "pros": [
+      ""
+    ],
+    "nutritionInfo": {
+      "energy": "526 kcal",
+      "iron": "0",
+      "sugars": "6.0 g",
+      "Added Sugars ": "5.2 g",
+      "protein": "5.6 g",
+      "Saturated fat": "13.8 g",
+      "fiber": "0",
+      "sodium": "758.8 mg",
+      "vitaminB": "0",
+      "fruitsVegetablesNuts": "0",
+      "Trans fat": "0.1g",
+      "fats": "29.5 g",
+      "carbohydrates": "61.2 g"
+    },
+    "name": "Bingo! Mad Angles",
+    "numberOfRatings": 0,
+    "healthScore": 47,
+    "userRating": 0,
+    "calculationDetails": {
+      "negativePoints": 14,
+      "fsaScore": 14,
+      "positivePoints": 3
+    }
+  },
+  {
+    "id": "niF5R03dHoObhLUaepn0",
+    "healthScore": 71,
+    "pros": [
+      "Contains almonds and healthy fats"
+    ],
+    "cons": [
+      "High in sugar",
+      "Contains added color and antioxidant"
+    ],
+    "calculationDetails": {
+      "negativePoints": 7,
+      "fsaScore": 1,
+      "positivePoints": 6
+    },
+    "name": "Kellogg's Corn Flakes - Real Almond & Honey",
+    "Allergens": [
+      "Milk",
+      "Wheat",
+      "Soy",
+      "Oats",
+      "Barley",
+      "Nuts"
+    ],
+    "numberOfRatings": 0,
+    "userRating": 0,
+    "nutritionInfo": {
+      "carbohydrates": "80 g",
+      "iron": "0",
+      "Saturated Fat": "0.5 g",
+      "vitaminB1": "0",
+      "sodium": "65 mg",
+      "dietaryfiber": "2 g",
+      "MUFA": "3.8 g",
+      "PUFA": "1.3 g",
+      "Cholesterol ": "0 mg",
+      "fats": "5.6 g",
+      "fruitsVegetablesNuts": "0",
+      "TotalSugars": "27 g",
+      "protein": "7 g",
+      "energy": "390 kcal"
+    },
+    "barcodes": [
+      "8901499000289"
+    ],
+    "updatedAt": {
+      "seconds": 1738875811,
+      "nanoseconds": 574000000
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2Fneed%20Background%20Removed.png?alt=media&token=dd24fb00-1f8b-4300-8219-482a168c2bba",
+    "artificialIngredients": [
+      "Colour (INS 150d)",
+      "Antioxidant (INS 320)",
+      "Flavour (Nature Identical)"
+    ],
+    "ingredients": [
+      "Corn Grits",
+      "Sugar",
+      "Sliced Almonds",
+      "Cereal Extract",
+      "Honey",
+      "Iodized Salt",
+      "Dextrose",
+      "Vitamins",
+      "Flavour (Nature Identical)",
+      "Colour (INS 150d)",
+      "Antioxidant (INS 320)",
+      "Minerals"
+    ],
+    "categoryId": "3"
+  },
+  {
+    "id": "py7a9c5N5tYjPgpLt8ae",
+    "healthScore": 84,
+    "barcodes": [
+      "8906009532363"
+    ],
+    "calculationDetails": {
+      "negativePoints": 4,
+      "positivePoints": 10,
+      "fsaScore": -6
+    },
+    "numberOfRatings": 2,
+    "pros": [
+      "High in protein",
+      "Rich in dietary fiber",
+      "Contains Calcium",
+      "Contains Vitamin C"
+    ],
+    "nutritionInfo": {
+      "Vitamin B2": "0.24 mg",
+      "Zinc": "3 mg ",
+      "Vitamin B9": "30 mcg",
+      "protein": "20.0 g",
+      "Sodium": "105 mg",
+      "Vitamin E": "2.5 mg",
+      "L-Glutamine": "1.8 g",
+      "Cholesterol": "0 g",
+      "Omega-3": "50 mg",
+      "Saturated Fat": "2.4 g",
+      "Biotin": "7.50 mcg",
+      "L-Leucine": "880 mg",
+      "Potassium": "187.50 mg",
+      "Vitamin B3": "2.70 mg",
+      "Trans Fat": "0 g",
+      "Chromium": "12.5 mcg",
+      "L-Valine": "490 mg",
+      "Calcium": "150 mg",
+      "Vitamin B6": "0.30 mg",
+      "Vitamin D2": "2.5 mcg",
+      "Magnesium": "51 mg",
+      "Vitamin A": "150 mcg",
+      "BCAA": "1.9 g",
+      "Vitamin B5": "0.75 mg",
+      "Vitamin C": "10 mg",
+      "Selenium": "10 mcg",
+      "energy": "346 kcal",
+      "fiber": "10.0 g",
+      "Net Carbs": "30.4 g",
+      "fats": "11.6 g",
+      "Polyol (Maltitol)": "15.2 g",
+      "Vitamin B1": "0.21 mg",
+      "carbohydrates": "55.6 g",
+      "Vitamin B12": "0.15 mcg",
+      "sugars": "3.0 g",
+      "L-Isoleucine": "530 mg",
+      "Phosphorus": "90 mg",
+      "Vitamin K": "13.75 mcg"
+    },
+    "ingredients": [
+      "Soy nuggets",
+      "Whey protein concentrate",
+      "Calcium caseinate",
+      "Soy concentrate",
+      "Fructooligosaccharide",
+      "Chicory root fiber",
+      "Dark compound",
+      "Maltitol",
+      "Edible oil",
+      "Cocoa solids",
+      "Milk solids",
+      "Emulsifier (Soy lecithin)",
+      "Maltitol",
+      "Cranberries",
+      "Brown rice crispy",
+      "Edible vegetable oil",
+      "Strawberry preserve",
+      "Whole grain rolled oats",
+      "Yogurt powder",
+      "Humectant (Glycerine)",
+      "Flaxseeds",
+      "Tribasic calcium phosphate",
+      "Emulsifier (Soy lecithin)",
+      "Soy protein isolate",
+      "Binding agent",
+      "Salt",
+      "Citric acid",
+      "Antioxidants (Vitamin C)",
+      "Vitamins",
+      "Minerals",
+      "Glutamine",
+      "Amino acids."
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F51y13c6tnNL%20Background%20Removed._SL1000_.png?alt=media&token=cf4c20e2-eef8-4c3f-8592-d48bd684e595",
+    "categoryId": "4",
+    "updatedAt": {
+      "seconds": 1738875823,
+      "nanoseconds": 584000000
+    },
+    "name": "Choco Berry Max Protein Bar",
+    "userRating": 3,
+    "artificialIngredients": [
+      "Maltitol",
+      "Emulsifier (Soy lecithin)",
+      "Binding agent (Guar gum)",
+      "Citric acid",
+      "Antioxidants (Vitamin C)"
+    ],
+    "cons": [
+      "High in polyols",
+      "Contains multiple emulsifiers"
+    ]
+  },
+  {
+    "id": "pynf05FnrAbcND4lJVDo",
+    "barcodes": [
+      "8901063012530"
+    ],
+    "pros": [
+      "Provides calcium",
+      "Provides vitamin D"
+    ],
+    "categoryId": "2",
+    "numberOfRatings": 0,
+    "artificialIngredients": [
+      "Added flavours (milk, butter, vanilla)",
+      "Raising agents 503(ii)",
+      "Raising agents 500(ii)."
+    ],
+    "ingredients": [
+      "Refined wheat flour",
+      "Sugar",
+      "Palm oil",
+      "Milk solids",
+      "Invert syrup",
+      "Raising agents 503(ii)",
+      "Raising agents 500(ii)",
+      "Iodized salt",
+      "Emulsifiers (322, 471)",
+      "Calcium salt",
+      "Vitamins",
+      "Potassium iodate",
+      "Soya",
+      "Milk flavouring",
+      "Vanilla flavouring",
+      "butter flavouring"
+    ],
+    "userRating": 0,
+    "cons": [
+      "High in added sugars",
+      "High in saturated fat",
+      "Contains Artificial flavours"
+    ],
+    "name": "Britannia Milk Bikis",
+    "healthScore": 69,
+    "nutritionInfo": {
+      "protein": "7 g",
+      "Iodine": "13.5 mcg",
+      "Added Sugars": "25.7 g",
+      "Saturated fatt": "6.6 g",
+      "fiber": "0",
+      "carbohydrates": "77.1 g",
+      "sugars": "27 g",
+      "iron": "0",
+      "energy": "75 g",
+      "Calcium": "100 mg",
+      "Trans fatty acids": "0 g",
+      "Vitamin D": " 2.25 mcg",
+      "Mono unsaturated fat": "5.1 g",
+      "fats": "13.5 g",
+      "fruitsVegetablesNuts": "0",
+      "Poly unsaturated fat": "1.6 g",
+      "sodium": "298 mg",
+      "Cholesterol": "0 mg",
+      "Vitamin B1": "0.17 mg",
+      "Vitamin B6": "0.23 mg",
+      "Vitamin B12": "0.33 mcg"
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F40023490-2_8-britannia-milk-bikis-biscuits%20Background%20Removed.png?alt=media&token=6e019edf-ba26-4b83-93b3-324bc91c93b6",
+    "updatedAt": {
+      "seconds": 1738875828,
+      "nanoseconds": 318000000
+    },
+    "calculationDetails": {
+      "negativePoints": 6,
+      "fsaScore": 2,
+      "positivePoints": 4
+    }
+  },
+  {
+    "id": "sdaqDPhd2SWln8vQq2X0",
+    "barcodes": [
+      "8901063401082"
+    ],
+    "artificialIngredients": [
+      "Emulsifiers [331 (iii)]",
+      "Emulsifiers [339 (iii)]",
+      "Emulsifiers [452 (i)]",
+      "Iodised salt",
+      "Preservatives (200)",
+      "Preservatives (235)",
+      "Acidity regulator (270)"
+    ],
+    "numberOfRatings": 0,
+    "pros": [
+      "High in protein",
+      "Good source of calcium",
+      "No added sugar."
+    ],
+    "cons": [
+      "High in sodium",
+      "Contains artificial emulsifiers",
+      "Contains preservatives"
+    ],
+    "nutritionInfo": {
+      "sodium": "1600 mg",
+      "Phosphorus ": "512 mg",
+      "iron": "0",
+      "Saturated Fatty Acids": "14.8 g",
+      "Vitamin A": "250 mcg",
+      "fiber": "0",
+      "Calcium ": "401 mg",
+      "carbohydrates": "4.3 g",
+      "Trans Fatty Acids": "0.9 g",
+      "Cholesterol ": "65 mg",
+      "fruitsVegetablesNuts": "0",
+      "fats": "23.9 g",
+      "vitaminB": "0",
+      "energy": "310 kcal",
+      "protein": "19.5 g",
+      "sugars": "4.3 g"
+    },
+    "ingredients": [
+      "Cheese",
+      "Water",
+      "Milk solids",
+      "Emulsifiers [331 (iii)]",
+      "Emulsifiers [339 (iii)]",
+      "Emulsifiers [452 (i)]",
+      "Iodised salt",
+      "Preservatives (200)",
+      "Preservatives (235)",
+      "Acidity regulator (270)"
+    ],
+    "calculationDetails": {
+      "positivePoints": 5,
+      "fsaScore": 13,
+      "negativePoints": 13
+    },
+    "updatedAt": {
+      "seconds": 1738875837,
+      "nanoseconds": 865000000
+    },
+    "name": "Britannia Cheese Cubes",
+    "userRating": 0,
+    "healthScore": 49,
+    "categoryId": "6",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F%20.png?alt=media&token=bf478dd1-045e-4fd5-9546-153b273af8f4"
+  },
+  {
+    "id": "uQXA5QgsxTyuPVObSrUl",
+    "cons": [
+      "High in sodium",
+      "High in saturated fat",
+      "Contains flavors",
+      ""
+    ],
+    "numberOfRatings": 0,
+    "updatedAt": {
+      "seconds": 1738875841,
+      "nanoseconds": 327000000
+    },
+    "healthScore": 45,
+    "name": "Bingo! original",
+    "categoryId": "9",
+    "userRating": 0,
+    "pros": [
+      "Low in added sugars"
+    ],
+    "nutritionInfo": {
+      "carbohydrates": "50.5 g",
+      "sugars": "1.5 g",
+      "vitaminB": "0",
+      "Added sugars": "0.8 g",
+      "sodium": "824.6",
+      "fiber": "0",
+      "Saturated fat": "14.2 g",
+      "protein": " 7.1 g",
+      "iron": "0",
+      "Trans fat": "0.1 g",
+      "fruitsVegetablesNuts": "0",
+      "fats": "33.4 g",
+      "energy": "531 kcal",
+      "Cholesterol": "0 mg"
+    },
+    "calculationDetails": {
+      "positivePoints": 4,
+      "negativePoints": 15,
+      "fsaScore": 15
+    },
+    "ingredients": [
+      "Potato",
+      "Refined palmolein",
+      "Iodized salt",
+      "Red chilli powder",
+      "Maltodextrin",
+      "Spices & condiments",
+      "Onion powder",
+      "Refined wheat flour",
+      "Black salt",
+      "Milk solids",
+      "Natural flavours",
+      "Sugar",
+      "Tomato powder",
+      "Hydrolyzed protein",
+      "Garlic powder",
+      "Flavour enhancer (INS 508)",
+      "Iodized salt."
+    ],
+    "artificialIngredients": [
+      "Flavour enhancer (INS 508)",
+      "Flavouring substance"
+    ],
+    "barcodes": [
+      "8901725007508"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F71o-3%2Bi5LXL%20Background%20Removed._SL1500_.png?alt=media&token=e29bb555-bc54-4428-87ab-f840d121f74e"
+  },
+  {
+    "id": "wSuUWm5FAYPuCRnvR9S5",
+    "healthScore": 42,
+    "pros": [
+      "No trans fat"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F71hzfSAvSjL%20Background%20Removed._SL1500_-2.png?alt=media&token=caf4fb90-128d-4110-938a-b0a3af6d3c41",
+    "calculationDetails": {
+      "positivePoints": 4,
+      "fsaScore": 17,
+      "negativePoints": 17
+    },
+    "artificialIngredients": [
+      "Raising agents 503(ii)",
+      "Raising agents 341(ii)",
+      "Raising agents 500(ii)",
+      "Raising agents 450(i)",
+      "flavouring substance"
+    ],
+    "updatedAt": {
+      "seconds": 1738875845,
+      "nanoseconds": 570000000
+    },
+    "barcodes": [
+      "8901063017399"
+    ],
+    "cons": [
+      "High sodium",
+      "Contains refined wheat flour",
+      "High saturated fat"
+    ],
+    "name": "50-50 Maska Chaska",
+    "numberOfRatings": 0,
+    "userRating": 0,
+    "categoryId": "2",
+    "nutritionInfo": {
+      "Added Sugars": "7.5 g",
+      "vitaminB": "0",
+      "Trans fatty acids": "0 g",
+      "sodium": "1065 mg",
+      "carbohydrates": "63.8 g",
+      "fruitsVegetablesNuts": "0",
+      "Cholesterol": "3.8 mg",
+      "Poly unsaturated fat": "2.7 g",
+      "Mono unsaturated fat": "10.4 g",
+      "sugars": "9.8 g",
+      "protein": "7.7 g",
+      "energy": "525 kcal",
+      "Saturated fatty acids": "13 g",
+      "fats": "26.5 g",
+      "iron": "0",
+      "fiber": "0"
+    },
+    "ingredients": [
+      "Refined wheat flour",
+      "Palm & palmolein oil",
+      "Sugar",
+      "Liquid glucose",
+      "Raising agents 503(ii)",
+      "Raising agents 341(ii)",
+      "Raising agents 500(ii)",
+      "Raising agents 450(i)",
+      "Butter",
+      "Black salt",
+      "Milk solids",
+      "Dehydrated chives (1%)",
+      "Iodised salt",
+      "flavouring substance",
+      "Dough conditioner (223)."
+    ]
+  },
+  {
+    "id": "xLofwuio7zch4oetpuba",
+    "pros": [],
+    "name": "Dark Fantasy Choco Fills",
+    "ingredients": [
+      "Choco creme",
+      "sugar",
+      "Refined palmolein",
+      "Refined palm oil",
+      "Cocoa solids",
+      "Emulsifier",
+      "Chocolate flavouring",
+      "Vanilla flavouring",
+      "Wheat flour",
+      "Vegetable oil",
+      "Invert syrup",
+      "Liquid glucose",
+      "Raising agents 503(ii)",
+      "Raising agents 500(ii)",
+      "Raising agents 450(i)",
+      "Cocoa solids",
+      "Butter",
+      "Milk solids",
+      "Iodized salt",
+      "Milk chocolate flavouring",
+      "Colours (INS 150c, INS 150d)"
+    ],
+    "calculationDetails": {
+      "fsaScore": 12,
+      "negativePoints": 12,
+      "positivePoints": 4
+    },
+    "healthScore": 51,
+    "barcodes": [
+      "8909081005046"
+    ],
+    "userRating": 0,
+    "cons": [
+      "High in sugar",
+      "High in saturated fat",
+      "Contains artificial flavoring"
+    ],
+    "categoryId": "2",
+    "numberOfRatings": 0,
+    "artificialIngredients": [
+      "Chocolate flavouring",
+      "Vanilla flavouring",
+      "Raising agents 503(ii)",
+      "Raising agents 500(ii)",
+      "Raising agents 450(i)",
+      "Colours (INS 150c, INS 150d)"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F301-dark-fantasy-choco-fills-1-sunfeast-original-imagybg3wvv7gwff%20Background%20Removed.png?alt=media&token=4cd278b6-0e56-479f-a227-004eb0e87cd8",
+    "nutritionInfo": {
+      "Added Sugars": "33.9 g",
+      "protein": "7.3 g",
+      "fruitsVegetablesNuts": "0",
+      "Cholesterol": "0.3 mg",
+      "carbohydrates": "61.1 g",
+      "energy": "507 kcal",
+      "fiber": "0",
+      "iron": "0",
+      "sodium": "181.5 mg",
+      "Trans Fat": "0.1 g",
+      "sugars": "35.7 g",
+      "Saturated Fat": "12.7 g",
+      "fats": "27.3 g",
+      "vitaminB": "0"
+    },
+    "updatedAt": {
+      "seconds": 1738875850,
+      "nanoseconds": 333000000
+    }
+  },
+  {
+    "id": "xPtY1KQRKtsvRA0fhJwJ",
+    "pros": [
+      "Contains dietary fibre",
+      "Includes vitamins and minerals",
+      "No cholesterol"
+    ],
+    "cons": [
+      "High in added sugars",
+      "Contains artificial flavours",
+      "Includes artificial colors and antioxidant"
+    ],
+    "categoryId": "3",
+    "barcodes": [
+      "8901499010483"
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2Fkel-removebg-preview.png?alt=media&token=d7f6a08a-c4fa-40ea-ba86-ec8534252683",
+    "nutritionInfo": {
+      "fruitsVegetablesNuts": "0",
+      "Energy from fat": "46 kcal",
+      "energy": "386 kcal",
+      "Cholesterol ": "0 mg",
+      "Monounsaturated fatty acids": "2.3 g",
+      "Polyunsaturated fatty acids": "1.9 g",
+      "Folate": "66 μg",
+      "vitaminB1": "0.8 mg",
+      "Vitamin B3": "10 mg",
+      "Saturated fatty acids": "0.9 g",
+      "dietaryfiber": "6.4 g",
+      "Vitamin C": "25 mg",
+      "Vitamin B12": "0.2 μg",
+      "Vitamin B6": "1.3 mg",
+      "carbohydrates": "80 g",
+      "sodium": "140 mg",
+      "fats": "5.1 g",
+      "Vitamin B2": "0.9 mg",
+      "TotalSugars": "21.8 g",
+      "protein": "8.1 g",
+      "iron": "14 mg",
+      "Added sugars": "12.5 g"
+    },
+    "calculationDetails": {
+      "negativePoints": 8,
+      "positivePoints": 10,
+      "fsaScore": -2
+    },
+    "name": "Kellogg's Muesli Fruit & Nut",
+    "Allergens": [
+      "Wheat",
+      "Barley",
+      "Oats",
+      "Nuts",
+      "Almonds",
+      "Sulphite",
+      "Soy",
+      "Milk"
+    ],
+    "ingredients": [
+      "Corn Grits",
+      "Wheat",
+      "Rolled Barley",
+      "Rolled Oats",
+      "Rice",
+      "Ragi Millet Flour",
+      "Rice Flour",
+      "Corn Meal",
+      "Refined Wheat Flour",
+      "Candied Papaya",
+      "Almonds",
+      "Pumpkin Seeds",
+      "Candied Cranberry",
+      "Black Currants",
+      "Black Raisins",
+      "Sugar",
+      "Cereal Extract",
+      "Wheat Bran",
+      "Honey",
+      "Oligofructose",
+      "Iodized Salt",
+      "Cocoa Solids",
+      "Vitamins",
+      "Colours (INS 140)",
+      "Colours (INS 150d)",
+      "Antioxidant (INS 307b)",
+      "Mineral",
+      "Artificial Flavours (Coconut)"
+    ],
+    "numberOfRatings": 0,
+    "healthScore": 76,
+    "artificialIngredients": [
+      "Colours (INS 140)",
+      "Colours (INS 150d)",
+      "Antioxidant (INS 307b)",
+      "Artificial Flavours (Coconut)"
+    ],
+    "userRating": 0,
+    "updatedAt": {
+      "seconds": 1738875855,
+      "nanoseconds": 233000000
+    }
+  },
+  {
+    "id": "z792S7K3Sz5ZtakPecKh",
+    "calculationDetails": {
+      "positivePoints": 8,
+      "negativePoints": 12,
+      "fsaScore": 9
+    },
+    "name": "Snickers Peanut Filled Bar",
+    "pros": [
+      "Contains fiber"
+    ],
+    "healthScore": 56,
+    "numberOfRatings": 0,
+    "ingredients": [
+      "Sugar",
+      "Milk Solids",
+      "Cocoa Butter",
+      "Cocoa Solids",
+      "Dextrose",
+      "Ethyl Vanillin",
+      "Glucose Syrup",
+      "Peanuts",
+      "Palm Oil",
+      "Iodized Salt",
+      "Ethyl Vanillin",
+      "Emulsifier (Soy Lecithin)"
+    ],
+    "userRating": 0,
+    "artificialIngredients": [
+      "Ethyl Vanillin",
+      "Dextrose",
+      "Emulsifier (Soy Lecithin)"
+    ],
+    "nutritionInfo": {
+      "vitaminB1": "0",
+      "Trans Fat": "0.08 g",
+      "TotalSugars": "49.8 g",
+      "Saturated Fat": "10.8 g",
+      "dietaryfiber": "2.8 g",
+      "Salt": "0.15 g",
+      "sodium": "0",
+      "energy": "498 kcal",
+      "fats": "25.5 g",
+      "protein": "9.1 g",
+      "Added Sugars": "0 g",
+      "fruitsVegetablesNuts": "0",
+      "carbohydrates": "58.2 g",
+      "iron": "0"
+    },
+    "updatedAt": {
+      "seconds": 1738875859,
+      "nanoseconds": 315000000
+    },
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F51FwnDr4o3L%20Background%20Removed._SL1000_.png?alt=media&token=e539bbb1-8a67-4959-9939-f8dc998f10aa",
+    "categoryId": "4",
+    "barcodes": [
+      "8906002482474"
+    ],
+    "cons": [
+      "High in total sugar",
+      "High in saturated fat",
+      "Contains artificial flavor(Ethyl Vanillin)"
+    ]
+  },
+  {
+    "id": "zTXOPS9aayBm7FCVR6Fe",
+    "updatedAt": {
+      "seconds": 1738875862,
+      "nanoseconds": 817000000
+    },
+    "nutritionInfo": {
+      "fats": "30.0 g",
+      "protein": "11.1 g",
+      "vitaminB1": "0",
+      "iron": "0",
+      "carbohydrates": "50.1 g",
+      "energy": "524 kcal",
+      "fruitsVegetablesNuts": "0",
+      "Added Sugars": "33.9 g",
+      "Trans Fat ": "0.09 g",
+      "TotalSugars": "40.9 g",
+      "sodium": "117.1 mg",
+      "Saturated Fat": "28.7 g",
+      "dietaryfiber": "0"
+    },
+    "numberOfRatings": 0,
+    "Allergens": "Contains Milk;Contains Soy;Contains Sesame.",
+    "ingredients": [
+      "Milk Solids",
+      "Sugar",
+      "Hydrogenated Fats",
+      "Fractionated Vegetable Fat",
+      "Emulsifier (Soya Lecithin)",
+      "Identical Flavouring"
+    ],
+    "artificialIngredients": [
+      "Hydrogenated Fats",
+      "Fractionated Fat",
+      "Identical Flavouring"
+    ],
+    "healthScore": 51,
+    "pros": [
+      ""
+    ],
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/what2eat-cb440.firebasestorage.app/o/images%2F40122238_25-milkybar-white-chocolate-creamy.jpg.webp?alt=media&token=c15abba1-96b8-4c40-8c9e-4e3425be205b",
+    "name": "Milky Bar",
+    "calculationDetails": {
+      "negativePoints": 12,
+      "positivePoints": 5,
+      "fsaScore": 12
+    },
+    "cons": [
+      "High in sugar",
+      "Very high in saturated fat",
+      "Contains hydrogenated fats",
+      "Contains fractionated fats"
+    ],
+    "userRating": 0,
+    "barcodes": [
+      "8901058018639"
+    ],
+    "categoryId": "4"
+  }
+]

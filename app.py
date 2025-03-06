@@ -8,12 +8,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 app = FastAPI()
 
-# Load saved data
-products = joblib.load("product_data.pkl")
-tfidf_vectorizer = joblib.load("tfidf_vectorizer.pkl")
-tfidf_matrix = joblib.load("tfidf_matrix.pkl")
+# Load saved product data
+products = joblib.load("product_data.pkl")  # Should contain columns from flatten_product()
 
-# Define request model
 class RecommendationRequest(BaseModel):
     user_scanned_product_ids: list[str]
     user_allergens: list[str]
@@ -25,63 +22,74 @@ def home():
 
 @app.post("/recommend/")
 def recommend(request: RecommendationRequest):
-    user_scanned_product_ids = request.user_scanned_product_ids
-    user_allergens = request.user_allergens
+    # Extract request parameters
+    scanned_ids = request.user_scanned_product_ids
+    allergens = request.user_allergens
     top_n = request.top_n
 
-    # --- FILTER OUT PRODUCTS WITH ALLERGENS ---
+    # 1. Filter allergens
     def is_safe(ingredients):
-        return all(allergen.lower() not in ingredients.lower() for allergen in user_allergens)
+        return all(allergen.lower() not in ingredients.lower() for allergen in allergens)
     
     filtered_df = products[products['ingredients_str'].apply(is_safe)].copy()
+    
+    if filtered_df.empty:
+        return {"error": "No products available after allergen filtering"}
 
-    # --- CATEGORY BOOSTING ---
+    # 2. Create combined features (matches original logic)
+    filtered_df["combined_features"] = (
+        (filtered_df["ingredients_str"] + " ") * 2 +  # Double weight to ingredients
+        filtered_df["categoryId"] + " " +
+        filtered_df["pros_str"] + " " +
+        filtered_df["cons_str"]
+    )
+
+    # 3. Calculate TF-IDF with bigrams
+    tfidf_vectorizer = TfidfVectorizer(stop_words="english", ngram_range=(1, 2))
+    tfidf_matrix = tfidf_vectorizer.fit_transform(filtered_df["combined_features"])
+
+    # 4. Category boosting
     scanned_categories = set(
-        products.loc[products['id'].isin(user_scanned_product_ids), 'categoryId']
+        products.loc[products['id'].isin(scanned_ids), 'categoryId']
     )
-    filtered_df['category_priority'] = filtered_df['categoryId'].apply(lambda x: 1 if x in scanned_categories else 0)
-    
-    # --- ENSURE VALID INDICES ---
-    valid_indices = filtered_df.index.intersection(range(tfidf_matrix.shape[0]))
-    filtered_tfidf_matrix = tfidf_matrix[valid_indices]
-    filtered_df = filtered_df.loc[valid_indices].reset_index(drop=True)
+    filtered_df['category_priority'] = filtered_df['categoryId'].apply(
+        lambda x: 1 if x in scanned_categories else 0
+    )
 
-    # --- COMPUTE USER PROFILE (FIXED) ---
-    scanned_indices = [i for i, product_id in enumerate(filtered_df["id"]) if product_id in user_scanned_product_ids]
+    # 5. Find scanned products in filtered dataset
+    scanned_indices = [i for i, pid in enumerate(filtered_df["id"]) if pid in scanned_ids]
     if not scanned_indices:
-        return {"error": "No scanned products found in the dataset!"}
-    
-    user_profile = np.asarray(filtered_tfidf_matrix[scanned_indices].mean(axis=0)).reshape(1, -1)
-    
-    # --- COMPUTE SIMILARITY ---
-    similarity_scores = cosine_similarity(user_profile, filtered_tfidf_matrix).flatten()
-    filtered_df['similarity'] = similarity_scores
+        return {"error": "No scanned products found in filtered dataset"}
 
-    # --- NORMALIZE HEALTH SCORE ---
-    def normalize(series):
-        return (series - series.min()) / (series.max() - series.min()) if series.max() != series.min() else series
-    
-    filtered_df['norm_health'] = normalize(filtered_df['healthScore'])
+    # 6. Calculate similarities
+    user_profile = np.asarray(tfidf_matrix[scanned_indices].mean(axis=0))
+    similarity_scores = cosine_similarity(user_profile.reshape(1, -1), tfidf_matrix).flatten()
+    filtered_df["similarity"] = similarity_scores
 
-    # --- FINAL COMPOSITE SCORE ---
+    # 7. Normalize health scores
+    def normalize(s):
+        return (s - s.min()) / (s.max() - s.min()) if s.max() != s.min() else s
+    filtered_df["norm_health"] = normalize(filtered_df["healthScore"])
+
+    # 8. Calculate composite scores (original weights)
     w_similarity, w_health, w_category = 0.5, 0.2, 0.3
-    filtered_df['composite_score'] = (
-        w_similarity * filtered_df['similarity'] +
-        w_health * filtered_df['norm_health'] +
-        w_category * filtered_df['category_priority']
+    filtered_df["composite_score"] = (
+        w_similarity * filtered_df["similarity"] +
+        w_health * filtered_df["norm_health"] +
+        w_category * filtered_df["category_priority"]
     )
 
-    # --- TOP RECOMMENDATIONS ---
-    recommendations = filtered_df.sort_values(by="composite_score", ascending=False).head(top_n)
-    
-    # --- BUILD EXPLANATIONS ---
-    explanation = [
+    # 9. Get top recommendations
+    recommendations = filtered_df.sort_values("composite_score", ascending=False).head(top_n)
+
+    # 10. Format explanations
+    return [
         {
             "id": row["id"],
             "name": row["name"],
-            "reason": f"Similarity: {round(row['similarity'], 2)}, Health Score: {row['healthScore']}, Category match: {row['category_priority']}"
+            "reason": f"Similarity: {round(row['similarity'], 2)}, "
+                      f"Health Score: {row['healthScore']}, "
+                      f"Category Match: {row['category_priority']}"
         }
         for _, row in recommendations.iterrows()
     ]
-
-    return explanation

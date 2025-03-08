@@ -1,15 +1,53 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-import joblib
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import firebase_admin
+from firebase_admin import credentials, firestore
 
+# Initialize FastAPI
 app = FastAPI()
 
-# Load saved product data
-products = joblib.load("product_data.pkl")  # Should contain columns from flatten_product()
+# Initialize Firebase Admin SDK (only once)
+cred = credentials.Certificate("serviceAccountKey.json")  # Path to your service account key
+firebase_admin.initialize_app(cred)
+db = firestore.client()
+products = None
+# Load product data from Firebase at startup
+def load_products_from_firebase():
+    collection_ref = db.collection("products")  # Replace with your collection name
+    docs = collection_ref.stream()
+    product_list = [doc.to_dict() | {"id": doc.id} for doc in docs]
+    
+    # Convert to DataFrame
+    products_df = pd.DataFrame(product_list)
+    
+    # Ensure required columns and types
+    required_columns = {
+        "id": "",
+        "name": "",
+        "ingredients_str": "",
+        "categoryId": "",
+        "pros_str": "",
+        "cons_str": "",
+        "healthScore": 0.0
+    }
+    for col, default in required_columns.items():
+        if col not in products_df.columns:
+            products_df[col] = default
+        products_df[col] = products_df[col].fillna(default)
+    
+    string_columns = ["ingredients_str", "categoryId", "pros_str", "cons_str", "name"]
+    for col in string_columns:
+        products_df[col] = products_df[col].astype(str)
+    products_df["healthScore"] = pd.to_numeric(products_df["healthScore"], errors="coerce").fillna(0.0)
+    
+    return products_df
+
+# Global products variable loaded at startup
+products = load_products_from_firebase()
 
 class RecommendationRequest(BaseModel):
     user_scanned_product_ids: list[str]
@@ -36,9 +74,9 @@ def recommend(request: RecommendationRequest):
     if filtered_df.empty:
         return {"error": "No products available after allergen filtering"}
 
-    # 2. Create combined features (matches original logic)
+    # 2. Create combined features
     filtered_df["combined_features"] = (
-        (filtered_df["ingredients_str"] + " ") * 2 +  # Double weight to ingredients
+        (filtered_df["ingredients_str"] + " ") * 2 +
         filtered_df["categoryId"] + " " +
         filtered_df["pros_str"] + " " +
         filtered_df["cons_str"]
@@ -71,7 +109,7 @@ def recommend(request: RecommendationRequest):
         return (s - s.min()) / (s.max() - s.min()) if s.max() != s.min() else s
     filtered_df["norm_health"] = normalize(filtered_df["healthScore"])
 
-    # 8. Calculate composite scores (original weights)
+    # 8. Calculate composite scores
     w_similarity, w_health, w_category = 0.5, 0.2, 0.3
     filtered_df["composite_score"] = (
         w_similarity * filtered_df["similarity"] +
@@ -93,3 +131,10 @@ def recommend(request: RecommendationRequest):
         }
         for _, row in recommendations.iterrows()
     ]
+
+# Optional: Add endpoint to refresh product data
+@app.post("/refresh-products/")
+def refresh_products():
+    global products
+    products = load_products_from_firebase()
+    return {"message": "Product data refreshed from Firebase"}

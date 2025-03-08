@@ -10,6 +10,7 @@ COPY requirements.txt .
 COPY tfidf_vectorizer.pkl .
 COPY tfidf_matrix.pkl .
 COPY product_data.pkl .
+COPY serviceAccountKey.json .
 
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
